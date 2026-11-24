@@ -122,8 +122,8 @@
 
 | Field | Value |
 |---|---|
-| Date | December 31, 2026 at 6:00 PM CST |
-
+| Date | December 31, 2026 at 11:59 PM CST |
+| Ends | January 1, 2027 at 12:10 AM CST |
 | Venue | Navy Pier |
 | Address | 600 E Grand Ave, Chicago, IL 60611 |
 | Free | Yes |

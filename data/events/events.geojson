@@ -190,9 +190,9 @@
         "city": "Chicago",
         "venue": "Navy Pier",
         "address": "600 E Grand Ave, Chicago, IL 60611",
-        "startDate": "2026-12-31T18:00:00-06:00",
+        "startDate": "2026-12-31T23:59:00-06:00",
         "fireworksAt": "2027-01-01T00:00:00-06:00",
-        "endDate": null,
+        "endDate": "2027-01-01T00:10:00-06:00",
         "timezone": "America/Chicago",
         "status": "confirmed",
         "admissionType": "free",
@@ -202,7 +202,7 @@
         "sourceName": "Navy Pier",
         "verifiedAt": "2026-11-23",
         "lastUpdated": "2026-11-23",
-        "summary": "Navy Pier welcomes 2027 with a free midnight fireworks show over Lake Michigan on New Year's Eve, December 31, 2026."
+        "summary": "Navy Pier rings in 2027 with an official 10-minute midnight fireworks show over Lake Michigan, scheduled for 11:59 PM on December 31, 2026."
       }
     },
     {
