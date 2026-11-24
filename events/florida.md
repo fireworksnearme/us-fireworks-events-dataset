@@ -13,7 +13,7 @@
 | Field | Value |
 |---|---|
 | Date | December 31, 2026 at 5:00 PM EST |
-| Ends | January 1, 2027 at 12:30 AM EST |
+
 | Venue | Bayfront Park |
 | Address | 301 Biscayne Blvd, Miami, FL 33132 |
 | Free | Yes |

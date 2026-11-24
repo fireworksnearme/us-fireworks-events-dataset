@@ -13,7 +13,7 @@
 | Field | Value |
 |---|---|
 | Date | December 31, 2026 at 11:30 PM PST |
-| Ends | January 1, 2027 at 12:25 AM PST |
+
 | Venue | Embarcadero Waterfront / Ferry Building |
 | Address | 1 Ferry Building, San Francisco, CA 94111 |
 | Free | Yes |
@@ -21,12 +21,12 @@
 | Coordinates | 37.7955, -122.3937 |
 
 **Viewing tips:**
-- The Embarcadero between Mission and Folsom streets is the best free public viewing stretch for the barge-launched show.
-- Arrive by late evening — the waterfront rail fills quickly ahead of the midnight launch, which starts exactly at 12:00 AM.
+- The Embarcadero waterfront is the traditional free public viewing stretch for the barge-launched show; official viewing areas for the current edition are posted on the Port's fireworks page.
+- Arrive by late evening — the waterfront fills quickly ahead of the show, and the final launch time is confirmed only on the Port's official page.
 
 **[Full details & viewing guide →](https://fireworksnearme.top/en/us/ca/san-francisco/fireworks)**
 **[This event →](https://fireworksnearme.top/en/events/san-francisco-waterfront-nye-2027)**
-**[Official page →](https://sfport.com)**
+**[Official page →](https://www.sfport.com/fireworks)**
 
 ---
 
@@ -35,7 +35,7 @@
 | Field | Value |
 |---|---|
 | Date | December 31, 2026 at 7:00 PM PST |
-| Ends | January 1, 2027 at 12:30 AM PST |
+
 | Venue | Burton Chace Park |
 | Address | 13650 Mindanao Way, Marina del Rey, CA 90292 |
 | Free | Yes |
@@ -48,7 +48,7 @@
 
 **[Full details & viewing guide →](https://fireworksnearme.top/en/us/ca/fireworks)**
 **[This event →](https://fireworksnearme.top/en/events/los-angeles-marina-del-rey-nye-2027)**
-**[Official page →](https://beaches.lacounty.gov/new-years-eve-fireworks-in-marina-del-rey/)**
+**[Official page →](https://beaches.lacounty.gov/events/marina-del-rey-nye-fireworks-glow-party/)**
 
 ---
 

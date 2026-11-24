@@ -13,7 +13,7 @@
 | Field | Value |
 |---|---|
 | Date | December 31, 2026 at 10:00 PM CST |
-| Ends | January 1, 2027 at 12:15 AM CST |
+
 | Venue | Reunion Tower |
 | Address | 300 Reunion Blvd E, Dallas, TX 75207 |
 | Free | Yes |
@@ -26,7 +26,7 @@
 
 **[Full details & viewing guide →](https://fireworksnearme.top/en/us/tx/dallas/fireworks)**
 **[This event →](https://fireworksnearme.top/en/events/dallas-reunion-tower-nye-2027)**
-**[Official page →](https://reuniontower.com/things-to-do/lone-star-nye-at-reunion-tower/)**
+**[Official page →](https://reuniontower.com/things-to-do/new-years-eve/)**
 
 ---
 

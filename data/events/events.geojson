@@ -190,9 +190,9 @@
         "city": "Chicago",
         "venue": "Navy Pier",
         "address": "600 E Grand Ave, Chicago, IL 60611",
-        "startDate": "2026-12-31T23:59:00-06:00",
+        "startDate": "2026-12-31T18:00:00-06:00",
         "fireworksAt": "2027-01-01T00:00:00-06:00",
-        "endDate": "2027-01-01T00:15:00-06:00",
+        "endDate": null,
         "timezone": "America/Chicago",
         "status": "confirmed",
         "admissionType": "free",
@@ -362,7 +362,7 @@
         "address": "301 Biscayne Blvd, Miami, FL 33132",
         "startDate": "2026-12-31T17:00:00-05:00",
         "fireworksAt": "2027-01-01T00:00:00-05:00",
-        "endDate": "2027-01-01T00:30:00-05:00",
+        "endDate": null,
         "timezone": "America/New_York",
         "status": "confirmed",
         "admissionType": "rsvp",
@@ -394,9 +394,9 @@
         "city": "Nashville",
         "venue": "Bicentennial Capitol Mall State Park",
         "address": "600 James Robertson Pkwy, Nashville, TN 37243",
-        "startDate": "2026-12-31T17:30:00-06:00",
-        "fireworksAt": "2027-01-01T00:00:00-06:00",
-        "endDate": "2027-01-01T00:30:00-06:00",
+        "startDate": "2026-12-31T17:00:00-06:00",
+        "fireworksAt": "2026-12-31T17:00:00-06:00",
+        "endDate": null,
         "timezone": "America/Chicago",
         "status": "tentative",
         "admissionType": "free",
@@ -406,7 +406,7 @@
         "sourceName": "Nashville Convention & Visitors Corp",
         "verifiedAt": "2026-11-23",
         "lastUpdated": "2026-11-23",
-        "summary": "Nashville's New Year's Eve Live: Nashville's Big Bash moves to Bicentennial Capitol Mall State Park with headline concerts; the midnight fireworks moment is not yet finalized."
+        "summary": "New Year's Eve Live: Nashville's Big Bash is confirmed for December 31, 2026 at Bicentennial Capitol Mall State Park with gates at 5:00 PM CT and headline concerts — the specific fireworks time is still to be determined."
       }
     },
     {
@@ -498,17 +498,17 @@
         "address": "1 Ferry Building, San Francisco, CA 94111",
         "startDate": "2026-12-31T23:30:00-08:00",
         "fireworksAt": "2027-01-01T00:00:00-08:00",
-        "endDate": "2027-01-01T00:25:00-08:00",
+        "endDate": null,
         "timezone": "America/Los_Angeles",
         "status": "confirmed",
         "admissionType": "free",
         "isFree": true,
         "displayType": "aerial-fireworks",
-        "officialUrl": "https://sfport.com",
+        "officialUrl": "https://www.sfport.com/fireworks",
         "sourceName": "Port of San Francisco",
         "verifiedAt": "2026-11-23",
         "lastUpdated": "2026-11-23",
-        "summary": "San Francisco's traditional New Year's Eve waterfront fireworks return at midnight on December 31, 2026 — a 15 to 20 minute high-altitude display fired from barges on the Bay, free to watch along the Embarcadero."
+        "summary": "The Port of San Francisco traditionally closes the year with free New Year's Eve fireworks over the Bay on December 31, 2026 — final launch timing and official viewing areas were still TBD at our last verification, so confirm details on the Port's fireworks page."
       }
     },
     {
@@ -532,14 +532,14 @@
         "address": "300 Reunion Blvd E, Dallas, TX 75207",
         "startDate": "2026-12-31T22:00:00-06:00",
         "fireworksAt": "2026-12-31T23:59:00-06:00",
-        "endDate": "2027-01-01T00:15:00-06:00",
+        "endDate": null,
         "timezone": "America/Chicago",
         "status": "confirmed",
         "admissionType": "free",
         "isFree": true,
         "displayType": "hybrid",
-        "officialUrl": "https://reuniontower.com/things-to-do/lone-star-nye-at-reunion-tower/",
-        "sourceName": "Reunion Tower Official Site",
+        "officialUrl": "https://reuniontower.com/things-to-do/new-years-eve/",
+        "sourceName": "Reunion Tower Official",
         "verifiedAt": "2026-11-23",
         "lastUpdated": "2026-11-23",
         "summary": "Lone Star NYE at Reunion Tower lights up the Dallas skyline on December 31, 2026, with more than 5,000 pyrotechnic effects fired 360 degrees around the tower's structure, synchronized with its 259-fixture LED array and a drone light display."
@@ -551,8 +551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0768,
-          42.3499
+          -71.0509,
+          42.3603
         ]
       },
       "properties": {
@@ -562,21 +562,55 @@
         "country": "US",
         "state": "MA",
         "city": "Boston",
-        "venue": "Boston Inner Harbor & Copley Square",
-        "address": "Copley Square, Boston, MA 02116",
+        "venue": "Boston Inner Harbor",
+        "address": "Boston Inner Harbor, Boston, MA",
         "startDate": "2026-12-31T12:00:00-05:00",
         "fireworksAt": "2027-01-01T00:00:00-05:00",
-        "endDate": "2027-01-01T00:30:00-05:00",
+        "endDate": null,
         "timezone": "America/New_York",
         "status": "confirmed",
         "admissionType": "free",
         "isFree": true,
         "displayType": "aerial-fireworks",
-        "officialUrl": "https://www.firstnightboston.org/",
-        "sourceName": "First Night Boston Official Site",
+        "officialUrl": "https://www.firstnightboston.org/fireworks/",
+        "sourceName": "First Night Boston Official",
         "verifiedAt": "2026-11-23",
         "lastUpdated": "2026-11-23",
-        "summary": "First Night Boston, the country's oldest New Year's Eve festival of the arts, fills Copley Square and downtown from noon on December 31, 2026, with a 7 PM family fireworks show on Boston Common and a midnight high-altitude display over the Inner Harbor to welcome 2027."
+        "summary": "First Night Boston, the country's oldest New Year's Eve festival of the arts, culminates in a free high-altitude midnight fireworks display over the Boston Inner Harbor on December 31, 2026, welcoming 2027. The festival's earlier 7 PM family fireworks at Boston Common are listed separately."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "boston-first-night-family-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0656,
+          42.3555
+        ]
+      },
+      "properties": {
+        "title": "First Night Boston Family Fireworks 2027",
+        "slug": "boston-first-night-family-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/boston-first-night-family-fireworks-2026",
+        "country": "US",
+        "state": "MA",
+        "city": "Boston",
+        "venue": "Boston Common",
+        "address": "139 Tremont St, Boston, MA 02111",
+        "startDate": "2026-12-31T19:00:00-05:00",
+        "fireworksAt": "2026-12-31T19:00:00-05:00",
+        "endDate": null,
+        "timezone": "America/New_York",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.firstnightboston.org/fireworks/",
+        "sourceName": "First Night Boston Official",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "First Night Boston's early New Year's Eve finale: free family fireworks over Boston Common at 7:00 PM ET on December 31, 2026, part of the country's oldest First Night celebration."
       }
     },
     {
@@ -600,14 +634,14 @@
         "address": "13650 Mindanao Way, Marina del Rey, CA 90292",
         "startDate": "2026-12-31T19:00:00-08:00",
         "fireworksAt": "2026-12-31T23:59:00-08:00",
-        "endDate": "2027-01-01T00:30:00-08:00",
+        "endDate": null,
         "timezone": "America/Los_Angeles",
         "status": "confirmed",
         "admissionType": "free",
         "isFree": true,
         "displayType": "aerial-fireworks",
-        "officialUrl": "https://beaches.lacounty.gov/new-years-eve-fireworks-in-marina-del-rey/",
-        "sourceName": "LA County Department of Beaches & Harbors",
+        "officialUrl": "https://beaches.lacounty.gov/events/marina-del-rey-nye-fireworks-glow-party/",
+        "sourceName": "LA County Department of Beaches and Harbors",
         "verifiedAt": "2026-11-23",
         "lastUpdated": "2026-11-23",
         "summary": "Los Angeles County's free New Year's Eve celebration at Marina del Rey returns on December 31, 2026 — a Glow Party at Burton Chace Park from 7 PM, a countdown rehearsal at 8:59 PM, and a roughly ten-minute fireworks finale fired from the south breakwater at 11:59 PM."

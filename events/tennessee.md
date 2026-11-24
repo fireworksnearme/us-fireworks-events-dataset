@@ -12,8 +12,8 @@
 
 | Field | Value |
 |---|---|
-| Date | December 31, 2026 at 5:30 PM CST |
-| Ends | January 1, 2027 at 12:30 AM CST |
+| Date | December 31, 2026 at 5:00 PM CST |
+
 | Venue | Bicentennial Capitol Mall State Park |
 | Address | 600 James Robertson Pkwy, Nashville, TN 37243 |
 | Free | Yes |
@@ -21,7 +21,7 @@
 | Coordinates | 36.1706, -86.7894 |
 
 **Viewing tips:**
-- The park's great lawn faces the main stage area where the midnight celebration is centered.
+- The park's great lawn faces the main stage area where the New Year's celebration is centered.
 - Arrive before gates reach capacity — this free event draws one of the largest NYE crowds in the Southeast.
 
 **[Full details & viewing guide →](https://fireworksnearme.top/en/us/tn/nashville/fireworks)**
