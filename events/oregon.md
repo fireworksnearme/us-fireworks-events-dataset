@@ -4,7 +4,7 @@
 
 **[Browse all Oregon fireworks →](https://fireworksnearme.top/en/us/or/fireworks)**
 
-1 verified event · Last updated: 2026-06-12
+1 verified event · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Tom McCall Waterfront Park |
 | Address | 98 SW Naito Pkwy, Portland, OR 97204 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 45.5194, -122.6711 |
 
 **Viewing tips:**

@@ -4,7 +4,7 @@
 
 **[Browse all Arizona fireworks →](https://fireworksnearme.top/en/us/az/fireworks)**
 
-3 verified events · Last updated: 2026-06-12
+3 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Margaret T. Hance Park |
 | Address | 67 W Culver St, Phoenix, AZ 85003 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.4484, -112.074 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | Westgate Entertainment District |
 | Address | 6770 N Sunrise Blvd, Glendale, AZ 85305 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.5387, -112.186 |
 
 **Viewing tips:**
@@ -61,7 +61,7 @@
 | Venue | Tempe Beach Park |
 | Address | 80 W Rio Salado Pkwy, Tempe, AZ 85281 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.4255, -111.94 |
 
 **Viewing tips:**

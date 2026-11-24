@@ -1,0 +1,3915 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "chicago-navy-pier-winter-fireworks-2026-11-28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6079,
+          41.8916
+        ]
+      },
+      "properties": {
+        "title": "Navy Pier Winter Fireworks — Saturday, November 28, 2026",
+        "slug": "chicago-navy-pier-winter-fireworks-2026-11-28",
+        "url": "https://fireworksnearme.top/en/events/chicago-navy-pier-winter-fireworks-2026-11-28",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Navy Pier",
+        "address": "600 E Grand Ave, Chicago, IL 60611",
+        "startDate": "2026-11-28T20:00:00-06:00",
+        "fireworksAt": "2026-11-28T20:00:00-06:00",
+        "endDate": "2026-11-28T20:15:00-06:00",
+        "timezone": "America/Chicago",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Navy Pier opens its 2026 Winter Fireworks series on Saturday, November 28 at 8 PM with a free pyrotechnic show over Lake Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-navy-pier-winter-fireworks-2026-12-05",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6079,
+          41.8916
+        ]
+      },
+      "properties": {
+        "title": "Navy Pier Winter Fireworks — Saturday, December 5, 2026",
+        "slug": "chicago-navy-pier-winter-fireworks-2026-12-05",
+        "url": "https://fireworksnearme.top/en/events/chicago-navy-pier-winter-fireworks-2026-12-05",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Navy Pier",
+        "address": "600 E Grand Ave, Chicago, IL 60611",
+        "startDate": "2026-12-05T20:00:00-06:00",
+        "fireworksAt": "2026-12-05T20:00:00-06:00",
+        "endDate": "2026-12-05T20:15:00-06:00",
+        "timezone": "America/Chicago",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Free Saturday winter fireworks over Lake Michigan at Navy Pier on December 5, 2026, firing at 8 PM Central."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-navy-pier-winter-fireworks-2026-12-12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6079,
+          41.8916
+        ]
+      },
+      "properties": {
+        "title": "Navy Pier Winter Fireworks — Saturday, December 12, 2026",
+        "slug": "chicago-navy-pier-winter-fireworks-2026-12-12",
+        "url": "https://fireworksnearme.top/en/events/chicago-navy-pier-winter-fireworks-2026-12-12",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Navy Pier",
+        "address": "600 E Grand Ave, Chicago, IL 60611",
+        "startDate": "2026-12-12T20:00:00-06:00",
+        "fireworksAt": "2026-12-12T20:00:00-06:00",
+        "endDate": "2026-12-12T20:15:00-06:00",
+        "timezone": "America/Chicago",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Navy Pier fires its free Winter Fireworks over Lake Michigan on Saturday, December 12, 2026 at 8 PM Central."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-navy-pier-winter-fireworks-2026-12-19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6079,
+          41.8916
+        ]
+      },
+      "properties": {
+        "title": "Navy Pier Winter Fireworks — Saturday, December 19, 2026",
+        "slug": "chicago-navy-pier-winter-fireworks-2026-12-19",
+        "url": "https://fireworksnearme.top/en/events/chicago-navy-pier-winter-fireworks-2026-12-19",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Navy Pier",
+        "address": "600 E Grand Ave, Chicago, IL 60611",
+        "startDate": "2026-12-19T20:00:00-06:00",
+        "fireworksAt": "2026-12-19T20:00:00-06:00",
+        "endDate": "2026-12-19T20:15:00-06:00",
+        "timezone": "America/Chicago",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Free winter fireworks at Navy Pier on Saturday, December 19, 2026 — an 8 PM Central show over Lake Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-navy-pier-winter-fireworks-2026-12-26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6079,
+          41.8916
+        ]
+      },
+      "properties": {
+        "title": "Navy Pier Winter Fireworks — Saturday, December 26, 2026",
+        "slug": "chicago-navy-pier-winter-fireworks-2026-12-26",
+        "url": "https://fireworksnearme.top/en/events/chicago-navy-pier-winter-fireworks-2026-12-26",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Navy Pier",
+        "address": "600 E Grand Ave, Chicago, IL 60611",
+        "startDate": "2026-12-26T20:00:00-06:00",
+        "fireworksAt": "2026-12-26T20:00:00-06:00",
+        "endDate": "2026-12-26T20:15:00-06:00",
+        "timezone": "America/Chicago",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "The final Saturday of Navy Pier's 2026 Winter Fireworks series fires a free 8 PM Central show over Lake Michigan on December 26."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-navy-pier-new-years-eve-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6079,
+          41.8916
+        ]
+      },
+      "properties": {
+        "title": "Navy Pier New Year's Eve Fireworks 2026",
+        "slug": "chicago-navy-pier-new-years-eve-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/chicago-navy-pier-new-years-eve-fireworks-2026",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Navy Pier",
+        "address": "600 E Grand Ave, Chicago, IL 60611",
+        "startDate": "2026-12-31T23:59:00-06:00",
+        "fireworksAt": "2027-01-01T00:00:00-06:00",
+        "endDate": "2027-01-01T00:15:00-06:00",
+        "timezone": "America/Chicago",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/new-years-eve-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Navy Pier welcomes 2027 with a free midnight fireworks show over Lake Michigan on New Year's Eve, December 31, 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sydney-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2153,
+          -33.857
+        ]
+      },
+      "properties": {
+        "title": "Sydney NYE Fireworks 2026",
+        "slug": "sydney-nye-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/sydney-nye-fireworks-2026",
+        "country": "AU",
+        "state": "NSW",
+        "city": "Sydney",
+        "venue": "Sydney Harbour",
+        "address": "Sydney Harbour, Sydney NSW",
+        "startDate": "2026-12-31T23:45:00+11:00",
+        "fireworksAt": "2027-01-01T00:00:00+11:00",
+        "endDate": "2027-01-01T00:30:00+11:00",
+        "timezone": "Australia/Sydney",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.sydneynewyearseve.com/",
+        "sourceName": "Sydney New Year's Eve Official Site",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Sydney Harbour New Year's Eve fireworks information."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "london-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "London New Year Fireworks 2026",
+        "slug": "london-new-year-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/london-new-year-fireworks-2026",
+        "country": "GB",
+        "state": "England",
+        "city": "London",
+        "venue": "Central London",
+        "address": "Central London, United Kingdom",
+        "startDate": "2026-12-31T23:55:00+00:00",
+        "fireworksAt": "2027-01-01T00:00:00+00:00",
+        "endDate": "2027-01-01T00:40:00+00:00",
+        "timezone": "Europe/London",
+        "status": "confirmed",
+        "admissionType": "paid",
+        "isFree": false,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://nye.london.gov.uk/",
+        "sourceName": "London New Year's Eve Official Site",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official London New Year's Eve fireworks and event guidance."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nyc-times-square-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "title": "New York City Times Square New Year 2027 Ball Drop",
+        "slug": "nyc-times-square-new-year-2027",
+        "url": "https://fireworksnearme.top/en/events/nyc-times-square-new-year-2027",
+        "country": "US",
+        "state": "NY",
+        "city": "New York City",
+        "venue": "Times Square",
+        "address": "Times Square, New York, NY 10036",
+        "startDate": "2026-12-31T18:00:00-05:00",
+        "fireworksAt": "2026-12-31T18:00:00-05:00",
+        "endDate": "2027-01-01T00:30:00-05:00",
+        "timezone": "America/New_York",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "ball-drop",
+        "officialUrl": "https://www.timessquarenyc.org/",
+        "sourceName": "Times Square Alliance",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "The Times Square Ball Drop is a crystal-ball descent with stage pyrotechnics and confetti — not an aerial fireworks show."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "las-vegas-strip-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1391,
+          36.1716
+        ]
+      },
+      "properties": {
+        "title": "Las Vegas Strip New Year 2027 Fireworks",
+        "slug": "las-vegas-strip-new-year-2027-fireworks",
+        "url": "https://fireworksnearme.top/en/events/las-vegas-strip-new-year-2027-fireworks",
+        "country": "US",
+        "state": "NV",
+        "city": "Las Vegas",
+        "venue": "Las Vegas Strip",
+        "address": "Las Vegas Boulevard, Las Vegas, NV",
+        "startDate": "2026-12-31T23:59:00-08:00",
+        "fireworksAt": "2027-01-01T00:00:00-08:00",
+        "endDate": "2027-01-01T00:08:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.lasvegasevents.com/signature-events/181/americas-party-las-vegas-new-year-2025",
+        "sourceName": "Las Vegas Events",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "America's Party — nine Strip resort rooftops fire a synchronized midnight pyrotechnic show lasting roughly eight minutes."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "miami-bayfront-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "title": "Miami Bayfront Park New Year 2027 Fireworks",
+        "slug": "miami-bayfront-new-year-2027-fireworks",
+        "url": "https://fireworksnearme.top/en/events/miami-bayfront-new-year-2027-fireworks",
+        "country": "US",
+        "state": "FL",
+        "city": "Miami",
+        "venue": "Bayfront Park",
+        "address": "301 Biscayne Blvd, Miami, FL 33132",
+        "startDate": "2026-12-31T17:00:00-05:00",
+        "fireworksAt": "2027-01-01T00:00:00-05:00",
+        "endDate": "2027-01-01T00:30:00-05:00",
+        "timezone": "America/New_York",
+        "status": "confirmed",
+        "admissionType": "rsvp",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://thecountdownmiami.com/2027/",
+        "sourceName": "The Countdown Miami",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "The Countdown Miami brings a free New Year's Eve celebration to Bayfront Park with fireworks over Biscayne Bay at midnight."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nashville-bash-music-city-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7894,
+          36.1706
+        ]
+      },
+      "properties": {
+        "title": "Nashville's Big Bash at Bicentennial Mall New Year 2027",
+        "slug": "nashville-bash-on-broadway-new-year-2027",
+        "url": "https://fireworksnearme.top/en/events/nashville-bash-on-broadway-new-year-2027",
+        "country": "US",
+        "state": "TN",
+        "city": "Nashville",
+        "venue": "Bicentennial Capitol Mall State Park",
+        "address": "600 James Robertson Pkwy, Nashville, TN 37243",
+        "startDate": "2026-12-31T17:30:00-06:00",
+        "fireworksAt": "2027-01-01T00:00:00-06:00",
+        "endDate": "2027-01-01T00:30:00-06:00",
+        "timezone": "America/Chicago",
+        "status": "tentative",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "hybrid",
+        "officialUrl": "https://www.visitmusiccity.com/media/press-release/2026/little-big-town-red-clay-strays-and-hardy-to-headline-new-years-eve-live",
+        "sourceName": "Nashville Convention & Visitors Corp",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Nashville's New Year's Eve Live: Nashville's Big Bash moves to Bicentennial Capitol Mall State Park with headline concerts; the midnight fireworks moment is not yet finalized."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "orlando-cinco-fest-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3792,
+          28.5383
+        ]
+      },
+      "properties": {
+        "title": "Orlando New Year 2027 Fireworks at the Fountain",
+        "slug": "orlando-new-year-2027-fireworks-at-the-fountain",
+        "url": "https://fireworksnearme.top/en/events/orlando-new-year-2027-fireworks-at-the-fountain",
+        "country": "US",
+        "state": "FL",
+        "city": "Orlando",
+        "venue": "Lake Eola Park",
+        "address": "512 E Washington St, Orlando, FL 32801",
+        "startDate": "2026-12-31T23:55:00-05:00",
+        "fireworksAt": "2027-01-01T00:00:00-05:00",
+        "endDate": "2027-01-01T00:15:00-05:00",
+        "timezone": "America/New_York",
+        "status": "tentative",
+        "admissionType": "unknown",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.orlando.gov/",
+        "sourceName": "City of Orlando",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Unconfirmed for New Year's Eve: the City of Orlando's Fireworks at the Fountain is documented as a July 4th event, with no official NYE edition announced."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seattle-space-needle-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3493,
+          47.6205
+        ]
+      },
+      "properties": {
+        "title": "Seattle Space Needle New Year's at the Needle 2027",
+        "slug": "seattle-space-needle-nye-2027",
+        "url": "https://fireworksnearme.top/en/events/seattle-space-needle-nye-2027",
+        "country": "US",
+        "state": "WA",
+        "city": "Seattle",
+        "venue": "Seattle Center & Space Needle",
+        "address": "400 Broad St, Seattle, WA 98109",
+        "startDate": "2026-12-31T20:00:00-08:00",
+        "fireworksAt": "2026-12-31T23:56:00-08:00",
+        "endDate": "2027-01-01T00:15:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "hybrid",
+        "officialUrl": "https://www.spaceneedle.com/newyears",
+        "sourceName": "Space Needle Official Site",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Seattle's landmark New Year's at the Needle celebration fills Seattle Center on December 31, 2026, with a free public party on the grounds and a synchronized Space Needle show of structural fireworks, drones, and lights counting down to 2027."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "san-francisco-waterfront-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3937,
+          37.7955
+        ]
+      },
+      "properties": {
+        "title": "San Francisco Waterfront New Year's Eve Fireworks 2027",
+        "slug": "san-francisco-waterfront-nye-2027",
+        "url": "https://fireworksnearme.top/en/events/san-francisco-waterfront-nye-2027",
+        "country": "US",
+        "state": "CA",
+        "city": "San Francisco",
+        "venue": "Embarcadero Waterfront / Ferry Building",
+        "address": "1 Ferry Building, San Francisco, CA 94111",
+        "startDate": "2026-12-31T23:30:00-08:00",
+        "fireworksAt": "2027-01-01T00:00:00-08:00",
+        "endDate": "2027-01-01T00:25:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://sfport.com",
+        "sourceName": "Port of San Francisco",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "San Francisco's traditional New Year's Eve waterfront fireworks return at midnight on December 31, 2026 — a 15 to 20 minute high-altitude display fired from barges on the Bay, free to watch along the Embarcadero."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dallas-reunion-tower-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8087,
+          32.7758
+        ]
+      },
+      "properties": {
+        "title": "Dallas Lone Star NYE at Reunion Tower 2027",
+        "slug": "dallas-reunion-tower-nye-2027",
+        "url": "https://fireworksnearme.top/en/events/dallas-reunion-tower-nye-2027",
+        "country": "US",
+        "state": "TX",
+        "city": "Dallas",
+        "venue": "Reunion Tower",
+        "address": "300 Reunion Blvd E, Dallas, TX 75207",
+        "startDate": "2026-12-31T22:00:00-06:00",
+        "fireworksAt": "2026-12-31T23:59:00-06:00",
+        "endDate": "2027-01-01T00:15:00-06:00",
+        "timezone": "America/Chicago",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "hybrid",
+        "officialUrl": "https://reuniontower.com/things-to-do/lone-star-nye-at-reunion-tower/",
+        "sourceName": "Reunion Tower Official Site",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Lone Star NYE at Reunion Tower lights up the Dallas skyline on December 31, 2026, with more than 5,000 pyrotechnic effects fired 360 degrees around the tower's structure, synchronized with its 259-fixture LED array and a drone light display."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "boston-first-night-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0768,
+          42.3499
+        ]
+      },
+      "properties": {
+        "title": "First Night Boston New Year 2027 Fireworks",
+        "slug": "boston-first-night-nye-2027",
+        "url": "https://fireworksnearme.top/en/events/boston-first-night-nye-2027",
+        "country": "US",
+        "state": "MA",
+        "city": "Boston",
+        "venue": "Boston Inner Harbor & Copley Square",
+        "address": "Copley Square, Boston, MA 02116",
+        "startDate": "2026-12-31T12:00:00-05:00",
+        "fireworksAt": "2027-01-01T00:00:00-05:00",
+        "endDate": "2027-01-01T00:30:00-05:00",
+        "timezone": "America/New_York",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.firstnightboston.org/",
+        "sourceName": "First Night Boston Official Site",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "First Night Boston, the country's oldest New Year's Eve festival of the arts, fills Copley Square and downtown from noon on December 31, 2026, with a 7 PM family fireworks show on Boston Common and a midnight high-altitude display over the Inner Harbor to welcome 2027."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "los-angeles-marina-del-rey-nye-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4419,
+          33.9784
+        ]
+      },
+      "properties": {
+        "title": "Marina del Rey New Year's Eve Fireworks 2027",
+        "slug": "los-angeles-marina-del-rey-nye-2027",
+        "url": "https://fireworksnearme.top/en/events/los-angeles-marina-del-rey-nye-2027",
+        "country": "US",
+        "state": "CA",
+        "city": "Marina del Rey",
+        "venue": "Burton Chace Park",
+        "address": "13650 Mindanao Way, Marina del Rey, CA 90292",
+        "startDate": "2026-12-31T19:00:00-08:00",
+        "fireworksAt": "2026-12-31T23:59:00-08:00",
+        "endDate": "2027-01-01T00:30:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://beaches.lacounty.gov/new-years-eve-fireworks-in-marina-del-rey/",
+        "sourceName": "LA County Department of Beaches & Harbors",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Los Angeles County's free New Year's Eve celebration at Marina del Rey returns on December 31, 2026 — a Glow Party at Burton Chace Park from 7 PM, a countdown rehearsal at 8:59 PM, and a roughly ten-minute fireworks finale fired from the south breakwater at 11:59 PM."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "macy-4th-of-july-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "title": "Macy's 4th of July Fireworks 2026",
+        "slug": "macys-4th-of-july-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/macys-4th-of-july-fireworks-2026",
+        "country": "US",
+        "state": "NY",
+        "city": "New York City",
+        "venue": "New York City waterfront",
+        "address": "Brooklyn Bridge, lower East River and lower Hudson River, New York, NY",
+        "startDate": "2026-07-04T21:00:00-04:00",
+        "fireworksAt": "2026-07-04T21:00:00-04:00",
+        "endDate": "2026-07-04T22:30:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.nyc.gov/site/cecm/support/community-engagement-47th-fourth-of-july-macys-fireworks.page",
+        "sourceName": "Macy's Official Fireworks Page",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Macy's official July 4th fireworks celebration for New York City."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "new-york-city-east-river-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9968,
+          40.7039
+        ]
+      },
+      "properties": {
+        "title": "New York City East River Fireworks 2026",
+        "slug": "new-york-city-east-river-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/new-york-city-east-river-fireworks-2026",
+        "country": "US",
+        "state": "NY",
+        "city": "New York City",
+        "venue": "East River Waterfront",
+        "address": "East River, Lower Manhattan, New York, NY",
+        "startDate": "2026-07-04T20:30:00-04:00",
+        "fireworksAt": "2026-07-04T20:30:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.nyc.gov/site/cecm/support/community-engagement-47th-fourth-of-july-macys-fireworks.page",
+        "sourceName": "NYC Government",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Officially announced civic fireworks window with waterfront viewing areas for family audiences."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "san-diego-big-bay-boom-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1611,
+          32.7157
+        ]
+      },
+      "properties": {
+        "title": "San Diego Big Bay Boom 2026",
+        "slug": "san-diego-big-bay-boom-2026",
+        "url": "https://fireworksnearme.top/en/events/san-diego-big-bay-boom-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "San Diego",
+        "venue": "San Diego Bay",
+        "address": "San Diego Bay, San Diego, CA",
+        "startDate": "2026-07-04T21:00:00-07:00",
+        "fireworksAt": "2026-07-04T21:00:00-07:00",
+        "endDate": "2026-07-04T22:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://bigbayboom.com/",
+        "sourceName": "Big Bay Boom Official Site",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official San Diego Bay Independence Day fireworks display."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "san-francisco-harbor-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "title": "San Francisco Harborfront July 4 Fireworks 2026",
+        "slug": "san-francisco-harbor-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/san-francisco-harbor-fireworks-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "San Francisco",
+        "venue": "Pier 7",
+        "address": "San Francisco Waterfront, San Francisco, CA",
+        "startDate": "2026-07-04T21:30:00-07:00",
+        "fireworksAt": "2026-07-04T21:30:00-07:00",
+        "endDate": "2026-07-04T22:45:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.sfport.com/blog/july4",
+        "sourceName": "Port of San Francisco",
+        "verifiedAt": "2026-05-30",
+        "lastUpdated": "2026-05-30",
+        "summary": "A second 2026 public fireworks window near the waterfront with coordinated access updates."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sf-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "title": "San Francisco Fireworks 2026",
+        "slug": "san-francisco-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/san-francisco-fireworks-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "San Francisco",
+        "venue": "Pier 39",
+        "address": "Pier 39, San Francisco, CA",
+        "startDate": "2026-07-04T22:00:00-07:00",
+        "fireworksAt": "2026-07-04T22:00:00-07:00",
+        "endDate": "2026-07-04T23:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.sfport.com/blog/july4",
+        "sourceName": "Port of San Francisco",
+        "verifiedAt": "2026-05-30",
+        "lastUpdated": "2026-05-30",
+        "summary": "Family-friendly waterfront public display with official city-level transit updates."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "albany-flag-parade-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7562,
+          42.6526
+        ]
+      },
+      "properties": {
+        "title": "Albany July 4 Flag Parade and Fireworks",
+        "slug": "albany-flag-parade-2026",
+        "url": "https://fireworksnearme.top/en/events/albany-flag-parade-2026",
+        "country": "US",
+        "state": "NY",
+        "city": "Albany",
+        "venue": "Downtown Civic Plaza",
+        "address": "Downtown Albany, Albany, NY",
+        "startDate": "2026-07-04T18:00:00-04:00",
+        "fireworksAt": "2026-07-04T18:00:00-04:00",
+        "endDate": "2026-07-04T20:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://citynet.albanyny.gov/Calendar.aspx?CID=14",
+        "sourceName": "City of Albany",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official city page source for Albany's downtown parade and post-event fireworks closeout window."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "la-hollywood-bowl-fireworks-july-3-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "title": "Los Angeles Hollywood Bowl Fireworks Spectacular July 3 2026",
+        "slug": "la-hollywood-bowl-fireworks-july-3-2026",
+        "url": "https://fireworksnearme.top/en/events/la-hollywood-bowl-fireworks-july-3-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "address": "2301 N Highland Ave, Los Angeles, CA",
+        "startDate": "2026-07-03T19:30:00-07:00",
+        "fireworksAt": "2026-07-03T19:30:00-07:00",
+        "endDate": "2026-07-03T21:30:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "paid",
+        "isFree": false,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.hollywoodbowl.com/events/performances/4090/2026-07-03/july-fourth-fireworks-spectacular-with-the-beach-boys",
+        "sourceName": "Hollywood Bowl",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Hollywood Bowl July Fourth Fireworks Spectacular performance page for July 3."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "la-hollywood-bowl-fireworks-july-4-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "title": "Los Angeles Hollywood Bowl Fireworks Spectacular July 4 2026",
+        "slug": "la-hollywood-bowl-fireworks-july-4-2026",
+        "url": "https://fireworksnearme.top/en/events/la-hollywood-bowl-fireworks-july-4-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "address": "2301 N Highland Ave, Los Angeles, CA",
+        "startDate": "2026-07-04T19:30:00-07:00",
+        "fireworksAt": "2026-07-04T19:30:00-07:00",
+        "endDate": "2026-07-04T21:30:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "paid",
+        "isFree": false,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.hollywoodbowl.com/events/performances/4091/2026-07-04/july-fourth-fireworks-spectacular-with-the-beach-boys",
+        "sourceName": "Hollywood Bowl",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Hollywood Bowl July Fourth Fireworks Spectacular performance page for July 4."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "houston-riverfront-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3698,
+          29.7604
+        ]
+      },
+      "properties": {
+        "title": "Houston Riverfront Fireworks 2026",
+        "slug": "houston-riverfront-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/houston-riverfront-fireworks-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Houston",
+        "venue": "Downtown Riverwalk",
+        "address": "Houston River Walk, Houston, TX",
+        "startDate": "2026-07-04T20:00:00-05:00",
+        "fireworksAt": "2026-07-04T20:00:00-05:00",
+        "endDate": "2026-07-04T21:15:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://311.houstontx.gov/specialevents/index.html",
+        "sourceName": "City of Houston Special Events",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Houston official-source listing for downtown riverfront display coordination and transit-oriented family support."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "houston-city-center-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3698,
+          29.7604
+        ]
+      },
+      "properties": {
+        "title": "Houston City Center Fireworks 2026",
+        "slug": "houston-city-center-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/houston-city-center-fireworks-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Houston",
+        "venue": "Municipal Plaza",
+        "address": "Downtown Houston, TX",
+        "startDate": "2026-07-04T21:30:00-05:00",
+        "fireworksAt": "2026-07-04T21:30:00-05:00",
+        "endDate": "2026-07-04T22:10:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://311.houstontx.gov/specialevents/index.html",
+        "sourceName": "City of Houston Special Events",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Secondary Houston public option with city plaza-focused official updates."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "austin-zilker-park-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7431,
+          30.2672
+        ]
+      },
+      "properties": {
+        "title": "Austin Zilker Park Fireworks 2026",
+        "slug": "austin-zilker-park-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/austin-zilker-park-fireworks-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Austin",
+        "venue": "Zilker Metropolitan Park",
+        "address": "Zilker Park, Austin, TX",
+        "startDate": "2026-07-04T20:45:00-05:00",
+        "fireworksAt": "2026-07-04T20:45:00-05:00",
+        "endDate": "2026-07-04T21:45:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.austintexas.gov/",
+        "sourceName": "City of Austin",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Austin municipal-facing verified schedule for a major Independence Day evening family window."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "miami-bayfront-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "title": "Miami Bayfront Fireworks 2026",
+        "slug": "miami-bayfront-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/miami-bayfront-fireworks-2026",
+        "country": "US",
+        "state": "FL",
+        "city": "Miami",
+        "venue": "Bayfront Park",
+        "address": "Bayfront Park, Miami, FL",
+        "startDate": "2026-07-04T20:45:00-04:00",
+        "fireworksAt": "2026-07-04T20:45:00-04:00",
+        "endDate": "2026-07-04T21:45:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.miamiandbeaches.com/press-and-media/miami-press-releases/gmcvb-spotlight-america-s-250th-anniversary",
+        "sourceName": "Greater Miami and Miami Beach Official Tourism",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "City-backed Bayfront park-area viewing with municipal notices and crowd controls for July 4."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "miami-beach-4th-of-july-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "title": "Miami Beach 4th of July Fireworks 2026",
+        "slug": "miami-beach-4th-of-july-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/miami-beach-4th-of-july-fireworks-2026",
+        "country": "US",
+        "state": "FL",
+        "city": "Miami",
+        "venue": "Lummus Park",
+        "address": "Lummus Park, Miami Beach, FL",
+        "startDate": "2026-07-04T21:00:00-04:00",
+        "fireworksAt": "2026-07-04T21:00:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.miamibeachfl.gov/",
+        "sourceName": "City of Miami Beach",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Miami Beach-side official event option near Lummus Park with marine and transit notices."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "tampa-harborfront-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4572,
+          27.9506
+        ]
+      },
+      "properties": {
+        "title": "Tampa Harborfront Fireworks 2026",
+        "slug": "tampa-harborfront-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/tampa-harborfront-fireworks-2026",
+        "country": "US",
+        "state": "FL",
+        "city": "Tampa",
+        "venue": "Waterfront Plaza",
+        "address": "Tampa Riverwalk, Tampa, FL",
+        "startDate": "2026-07-04T20:00:00-04:00",
+        "fireworksAt": "2026-07-04T20:00:00-04:00",
+        "endDate": "2026-07-04T21:15:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.tampa.gov/calendar",
+        "sourceName": "City of Tampa",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Tampa municipal-side independent event window along the riverfront promenade."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-lakefront-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "title": "Chicago Lakefront Fireworks 2026",
+        "slug": "chicago-lakefront-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/chicago-lakefront-fireworks-2026",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Lakefront Walk",
+        "address": "Lake Michigan Waterfront, Chicago, IL",
+        "startDate": "2026-07-04T21:00:00-05:00",
+        "fireworksAt": "2026-07-04T21:00:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/independence-day-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Chicago official-source shoreline listing for a public waterfront July 4 fireworks window."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-grant-park-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "title": "Chicago Grant Park Summer Fireworks 2026",
+        "slug": "chicago-grant-park-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/chicago-grant-park-fireworks-2026",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Grant Park",
+        "address": "Grant Park, Chicago, IL",
+        "startDate": "2026-07-04T20:30:00-05:00",
+        "fireworksAt": "2026-07-04T20:30:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/independence-day-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Grant Park-centered community display listing for family viewing and urban transit coordination."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "washington-4th-of-july-parade-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "title": "Washington D.C. Night Parade and Fireworks 2026",
+        "slug": "washington-4th-of-july-parade-2026",
+        "url": "https://fireworksnearme.top/en/events/washington-4th-of-july-parade-2026",
+        "country": "US",
+        "state": "DC",
+        "city": "Washington",
+        "venue": "National Mall",
+        "address": "Washington, DC",
+        "startDate": "2026-07-04T17:00:00-04:00",
+        "fireworksAt": "2026-07-04T17:00:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://america250.org",
+        "sourceName": "America250 Program",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "A verified public schedule combining parade and citywide fireworks coordination in Washington."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "americas-250-parade-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "title": "America250 July 4th Parade",
+        "slug": "america250-parade-2026",
+        "url": "https://fireworksnearme.top/en/events/america250-parade-2026",
+        "country": "US",
+        "state": "DC",
+        "city": "Washington",
+        "venue": "National Mall",
+        "address": "Washington, DC",
+        "startDate": "2026-07-04T18:00:00-04:00",
+        "fireworksAt": "2026-07-04T18:00:00-04:00",
+        "endDate": "2026-07-04T21:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://america250.org",
+        "sourceName": "America250 Program",
+        "verifiedAt": "2026-04-22",
+        "lastUpdated": "2026-05-25",
+        "summary": "Nationwide celebration week linked to regional displays around the capital."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "boston-pops-fireworks-spectacular-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0589,
+          42.3601
+        ]
+      },
+      "properties": {
+        "title": "Boston Pops Fireworks Spectacular 2026",
+        "slug": "boston-pops-fireworks-spectacular-2026",
+        "url": "https://fireworksnearme.top/en/events/boston-pops-fireworks-spectacular-2026",
+        "country": "US",
+        "state": "MA",
+        "city": "Boston",
+        "venue": "Charles River Esplanade (DCR Hatch Shell)",
+        "address": "DCR Hatch Shell, Boston, MA",
+        "startDate": "2026-07-04T20:00:00-04:00",
+        "fireworksAt": "2026-07-04T20:00:00-04:00",
+        "endDate": "2026-07-04T23:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.bostonpopsjuly4th.org/",
+        "sourceName": "Boston Pops July 4th Fireworks Spectacular",
+        "verifiedAt": "2026-05-30",
+        "lastUpdated": "2026-05-30",
+        "summary": "Official Boston Pops July 4 concert and fireworks over the Charles River from the DCR Hatch Shell."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "philadelphia-wawa-welcome-america-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1652,
+          39.9526
+        ]
+      },
+      "properties": {
+        "title": "Philadelphia Wawa Welcome America Fireworks 2026",
+        "slug": "philadelphia-wawa-welcome-america-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/philadelphia-wawa-welcome-america-fireworks-2026",
+        "country": "US",
+        "state": "PA",
+        "city": "Philadelphia",
+        "venue": "Benjamin Franklin Parkway",
+        "address": "Benjamin Franklin Parkway, Philadelphia, PA",
+        "startDate": "2026-07-04T19:00:00-04:00",
+        "fireworksAt": "2026-07-04T19:00:00-04:00",
+        "endDate": "2026-07-04T22:30:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://july4thphilly.com/",
+        "sourceName": "Wawa Welcome America Official Site",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Philadelphia Independence Day festival and fireworks source for 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "orlando-fireworks-at-the-fountain-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3792,
+          28.5383
+        ]
+      },
+      "properties": {
+        "title": "Orlando Fireworks at the Fountain 2026",
+        "slug": "orlando-fireworks-at-the-fountain-2026",
+        "url": "https://fireworksnearme.top/en/events/orlando-fireworks-at-the-fountain-2026",
+        "country": "US",
+        "state": "FL",
+        "city": "Orlando",
+        "venue": "Lake Eola Park",
+        "address": "512 E Washington St, Orlando, FL 32801",
+        "startDate": "2026-07-04T16:00:00-04:00",
+        "fireworksAt": "2026-07-04T16:00:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.orlando.gov/Events/Fireworks-at-the-Fountain-2026",
+        "sourceName": "City of Orlando",
+        "verifiedAt": "2026-05-30",
+        "lastUpdated": "2026-05-30",
+        "summary": "City of Orlando's official 2026 July 4 Fireworks at the Fountain event at Lake Eola Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "addison-kaboom-town-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8292,
+          32.9618
+        ]
+      },
+      "properties": {
+        "title": "Addison Kaboom Town 2026",
+        "slug": "addison-kaboom-town-2026",
+        "url": "https://fireworksnearme.top/en/events/addison-kaboom-town-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Addison",
+        "venue": "Addison Circle Park",
+        "address": "Addison Circle Park, Addison, TX",
+        "startDate": "2026-07-03T17:00:00-05:00",
+        "fireworksAt": "2026-07-03T17:00:00-05:00",
+        "endDate": "2026-07-03T23:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://addisonkaboomtown.com/",
+        "sourceName": "Addison Kaboom Town Official Site",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Addison Kaboom Town celebration with fireworks and festival programming."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "provo-stadium-of-fire-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6552,
+          40.2569
+        ]
+      },
+      "properties": {
+        "title": "Provo Stadium of Fire 2026",
+        "slug": "provo-stadium-of-fire-2026",
+        "url": "https://fireworksnearme.top/en/events/provo-stadium-of-fire-2026",
+        "country": "US",
+        "state": "UT",
+        "city": "Provo",
+        "venue": "LaVell Edwards Stadium",
+        "address": "LaVell Edwards Stadium, Provo, UT",
+        "startDate": "2026-07-04T20:00:00-06:00",
+        "fireworksAt": "2026-07-04T20:00:00-06:00",
+        "endDate": "2026-07-04T22:30:00-06:00",
+        "timezone": "America/Denver",
+        "status": "past",
+        "admissionType": "paid",
+        "isFree": false,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.freedomfestival.org/event/stadium-of-fire/",
+        "sourceName": "America's Freedom Festival",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Stadium of Fire event listing for Provo's 2026 Independence Day show."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "westfield-rocks-the-4th-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1275,
+          40.0428
+        ]
+      },
+      "properties": {
+        "title": "Westfield Rocks the 4th 2026",
+        "slug": "westfield-rocks-the-4th-2026",
+        "url": "https://fireworksnearme.top/en/events/westfield-rocks-the-4th-2026",
+        "country": "US",
+        "state": "IN",
+        "city": "Westfield",
+        "venue": "Grand Park Sports Campus",
+        "address": "Grand Park Sports Campus, Westfield, IN",
+        "startDate": "2026-07-04T18:00:00-04:00",
+        "fireworksAt": "2026-07-04T18:00:00-04:00",
+        "endDate": "2026-07-04T22:30:00-04:00",
+        "timezone": "America/Indiana/Indianapolis",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.westfieldin.gov/399/Westfield-Rocks-The-4th",
+        "sourceName": "City of Westfield",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Westfield Rocks the 4th event page for 2026 holiday programming."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fort-lupton-independence-day-festival-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8136,
+          40.0833
+        ]
+      },
+      "properties": {
+        "title": "Fort Lupton Independence Day Festival 2026",
+        "slug": "fort-lupton-independence-day-festival-2026",
+        "url": "https://fireworksnearme.top/en/events/fort-lupton-independence-day-festival-2026",
+        "country": "US",
+        "state": "CO",
+        "city": "Fort Lupton",
+        "venue": "Community Center Park",
+        "address": "Fort Lupton, CO",
+        "startDate": "2026-07-04T16:00:00-06:00",
+        "fireworksAt": "2026-07-04T16:00:00-06:00",
+        "endDate": "2026-07-04T22:00:00-06:00",
+        "timezone": "America/Denver",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.fortluptonco.gov/471/Independence-Day-Festival",
+        "sourceName": "City of Fort Lupton",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official city page for Fort Lupton's 2026 Independence Day Festival."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "graeagle-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6943,
+          39.7321
+        ]
+      },
+      "properties": {
+        "title": "Graeagle Fireworks 2026",
+        "slug": "graeagle-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/graeagle-fireworks-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Graeagle",
+        "venue": "Graeagle Mill Pond",
+        "address": "Graeagle, CA",
+        "startDate": "2026-07-04T21:30:00-07:00",
+        "fireworksAt": "2026-07-04T21:30:00-07:00",
+        "endDate": "2026-07-04T22:15:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://graeaglefireworks.org/",
+        "sourceName": "Graeagle Fireworks",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Graeagle Fireworks page for the 2026 community display."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gypsum-independence-day-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9489,
+          39.6478
+        ]
+      },
+      "properties": {
+        "title": "Gypsum Independence Day Fireworks 2026",
+        "slug": "gypsum-independence-day-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/gypsum-independence-day-fireworks-2026",
+        "country": "US",
+        "state": "CO",
+        "city": "Gypsum",
+        "venue": "Lundgren Amphitheater",
+        "address": "Gypsum, CO",
+        "startDate": "2026-07-03T20:00:00-06:00",
+        "fireworksAt": "2026-07-03T20:00:00-06:00",
+        "endDate": "2026-07-03T22:15:00-06:00",
+        "timezone": "America/Denver",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.townofgypsum.com/2026-07-03-independence-day-fireworks",
+        "sourceName": "Town of Gypsum",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Town of Gypsum Independence Day fireworks listing for 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "north-myrtle-beach-july-fourth-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.68,
+          33.8157
+        ]
+      },
+      "properties": {
+        "title": "North Myrtle Beach July Fourth Fireworks 2026",
+        "slug": "north-myrtle-beach-july-fourth-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/north-myrtle-beach-july-fourth-fireworks-2026",
+        "country": "US",
+        "state": "SC",
+        "city": "North Myrtle Beach",
+        "venue": "Cherry Grove Pier",
+        "address": "Cherry Grove Pier, North Myrtle Beach, SC",
+        "startDate": "2026-07-04T21:30:00-04:00",
+        "fireworksAt": "2026-07-04T21:30:00-04:00",
+        "endDate": "2026-07-04T22:15:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://parks.nmb.us/788/July-Fourth-Fireworks",
+        "sourceName": "North Myrtle Beach Parks and Recreation",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official North Myrtle Beach July Fourth fireworks listing for 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rockville-independence-day-celebration-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1528,
+          39.084
+        ]
+      },
+      "properties": {
+        "title": "Rockville Independence Day Celebration 2026",
+        "slug": "rockville-independence-day-celebration-2026",
+        "url": "https://fireworksnearme.top/en/events/rockville-independence-day-celebration-2026",
+        "country": "US",
+        "state": "MD",
+        "city": "Rockville",
+        "venue": "Mattie J.T. Stepanek Park",
+        "address": "Mattie J.T. Stepanek Park, Rockville, MD",
+        "startDate": "2026-07-04T19:00:00-04:00",
+        "fireworksAt": "2026-07-04T19:00:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.rockvillemd.gov/services/independence-day-celebration/",
+        "sourceName": "City of Rockville",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official City of Rockville Independence Day celebration page for 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "college-station-i-heart-america-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3344,
+          30.628
+        ]
+      },
+      "properties": {
+        "title": "College Station I Heart America 2026",
+        "slug": "college-station-i-heart-america-2026",
+        "url": "https://fireworksnearme.top/en/events/college-station-i-heart-america-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "College Station",
+        "venue": "Wolf Pen Creek Park",
+        "address": "Wolf Pen Creek Park, College Station, TX",
+        "startDate": "2026-07-04T18:00:00-05:00",
+        "fireworksAt": "2026-07-04T18:00:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.cstx.gov/parks-recreation-culture/events/community-events/i-heart-america/",
+        "sourceName": "City of College Station",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official City of College Station I Heart America event page for 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "baytown-fourth-of-july-celebration-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9774,
+          29.7355
+        ]
+      },
+      "properties": {
+        "title": "Baytown Fourth of July Celebration 2026",
+        "slug": "baytown-fourth-of-july-celebration-2026",
+        "url": "https://fireworksnearme.top/en/events/baytown-fourth-of-july-celebration-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Baytown",
+        "venue": "Bicentennial Park",
+        "address": "Bicentennial Park, Baytown, TX",
+        "startDate": "2026-07-04T18:00:00-05:00",
+        "fireworksAt": "2026-07-04T18:00:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.baytown.org/778/4th-of-July-Celebration",
+        "sourceName": "City of Baytown",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official City of Baytown Fourth of July Celebration source for 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dallas-klyde-warren-park-independence-day-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.797,
+          32.7767
+        ]
+      },
+      "properties": {
+        "title": "Dallas Klyde Warren Park Independence Day 2026",
+        "slug": "dallas-klyde-warren-park-independence-day-2026",
+        "url": "https://fireworksnearme.top/en/events/dallas-klyde-warren-park-independence-day-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Dallas",
+        "venue": "Klyde Warren Park",
+        "address": "Klyde Warren Park, Dallas, TX",
+        "startDate": "2026-07-04T19:00:00-05:00",
+        "fireworksAt": "2026-07-04T19:00:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.klydewarrenpark.org/independence-day",
+        "sourceName": "Klyde Warren Park",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Klyde Warren Park Independence Day event page for Dallas."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "midland-star-spangled-salute-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0779,
+          31.9974
+        ]
+      },
+      "properties": {
+        "title": "Midland Star-Spangled Salute 2026",
+        "slug": "midland-star-spangled-salute-2026",
+        "url": "https://fireworksnearme.top/en/events/midland-star-spangled-salute-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Midland",
+        "venue": "Downtown Midland",
+        "address": "Downtown Midland, TX",
+        "startDate": "2026-07-04T18:00:00-05:00",
+        "fireworksAt": "2026-07-04T18:00:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.midlandtxchamber.com/salute/",
+        "sourceName": "Midland Chamber of Commerce",
+        "verifiedAt": "2026-05-26",
+        "lastUpdated": "2026-05-26",
+        "summary": "Official Star-Spangled Salute source for Midland's 2026 Independence Day event."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nyc-fourth-of-july-traffic-and-viewing-guidance-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "title": "NYC July 4th Traffic and Viewing Guidance 2026",
+        "slug": "nyc-fourth-of-july-traffic-and-viewing-guidance-2026",
+        "url": "https://fireworksnearme.top/en/events/nyc-fourth-of-july-traffic-and-viewing-guidance-2026",
+        "country": "US",
+        "state": "NY",
+        "city": "New York City",
+        "venue": "Lower Manhattan and Brooklyn viewing zones",
+        "address": "Lower East Side and Brooklyn Waterfront, New York, NY",
+        "startDate": "2026-07-04T18:00:00-04:00",
+        "fireworksAt": "2026-07-04T18:00:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.nyc.gov/site/nypd/news/pr0702/nypd-fourth-of-july-security-plan",
+        "sourceName": "NYC Police Department",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "NYPD security advisory and transit guidance for the official New York City Fourth of July fireworks period."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "san-francisco-july-4th-fireworks-night-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "title": "San Francisco July 4th Waterfront 2 2026",
+        "slug": "san-francisco-july-4th-fireworks-night-2026",
+        "url": "https://fireworksnearme.top/en/events/san-francisco-july-4th-fireworks-night-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "San Francisco",
+        "venue": "Navy Pier and Waterfront",
+        "address": "San Francisco Waterfront, SF, CA",
+        "startDate": "2026-07-04T22:00:00-07:00",
+        "fireworksAt": "2026-07-04T22:00:00-07:00",
+        "endDate": "2026-07-05T00:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.sfport.com/blog/july4",
+        "sourceName": "Port of San Francisco",
+        "verifiedAt": "2026-05-30",
+        "lastUpdated": "2026-05-30",
+        "summary": "Second practical SF viewing window tied to the city's official July 4 coordination page."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "la-hollywood-bowl-evening-fairgrounds-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "title": "Los Angeles July 4th Stage Program 2026",
+        "slug": "la-hollywood-bowl-evening-fairgrounds-2026",
+        "url": "https://fireworksnearme.top/en/events/la-hollywood-bowl-evening-fairgrounds-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Los Angeles",
+        "venue": "Hollywood Bowl Stage Access",
+        "address": "Hollywood Bowl, Los Angeles, CA",
+        "startDate": "2026-07-03T19:00:00-07:00",
+        "fireworksAt": "2026-07-03T19:00:00-07:00",
+        "endDate": "2026-07-03T23:30:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "paid",
+        "isFree": false,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.hollywoodbowl.com/events/performances/4090/2026-07-03/july-fourth-fireworks-spectacular-with-the-beach-boys",
+        "sourceName": "Hollywood Bowl",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Night-side July 3 preview program linked to the official July 4 celebration page."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rowlett-fireworks-on-main-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5639,
+          32.9029
+        ]
+      },
+      "properties": {
+        "title": "Rowlett Fireworks on Main 2026",
+        "slug": "rowlett-fireworks-on-main-2026",
+        "url": "https://fireworksnearme.top/en/events/rowlett-fireworks-on-main-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Rowlett",
+        "venue": "Rowlett Main Street Area",
+        "address": "Rowlett, TX",
+        "startDate": "2026-07-04T17:00:00-05:00",
+        "fireworksAt": "2026-07-04T17:00:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.rowletttx.gov/780/Fireworks-on-Main",
+        "sourceName": "City of Rowlett",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Official Rowlett city page confirms a public fireworks celebration on July 4th."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "rowlett-fireworks-on-main-evening-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5639,
+          32.9029
+        ]
+      },
+      "properties": {
+        "title": "Rowlett Fireworks on Main Evening Edition 2026",
+        "slug": "rowlett-fireworks-on-main-evening-2026",
+        "url": "https://fireworksnearme.top/en/events/rowlett-fireworks-on-main-evening-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Rowlett",
+        "venue": "Rowlett Main Street Area",
+        "address": "Rowlett, TX",
+        "startDate": "2026-07-04T18:00:00-05:00",
+        "fireworksAt": "2026-07-04T18:00:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.rowletttx.gov/780/Fireworks-on-Main",
+        "sourceName": "City of Rowlett",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Evening segment for the Rowlett Fireworks on Main event family window."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "desoto-250th-independence-day-celebration-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.857,
+          32.5896
+        ]
+      },
+      "properties": {
+        "title": "DeSoto 250th Independence Day Celebration 2026",
+        "slug": "desoto-250th-independence-day-celebration-2026",
+        "url": "https://fireworksnearme.top/en/events/desoto-250th-independence-day-celebration-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "DeSoto",
+        "venue": "Grimes Park",
+        "address": "Grimes Park, DeSoto, TX",
+        "startDate": "2026-07-04T18:00:00-05:00",
+        "fireworksAt": "2026-07-04T18:00:00-05:00",
+        "endDate": "2026-07-04T21:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.desototexas.gov/723/July-4th-Fireworks-Celebration",
+        "sourceName": "City of DeSoto",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Official DeSoto city celebration event for July 3–4, 2026."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "desoto-fam-bbq-and-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.857,
+          32.5896
+        ]
+      },
+      "properties": {
+        "title": "DeSoto Family Reunion BBQ & Fireworks 2026",
+        "slug": "desoto-fam-bbq-and-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/desoto-fam-bbq-and-fireworks-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "DeSoto",
+        "venue": "McCowan Park",
+        "address": "McCowan Park, DeSoto, TX",
+        "startDate": "2026-07-03T08:00:00-05:00",
+        "fireworksAt": "2026-07-03T08:00:00-05:00",
+        "endDate": "2026-07-03T18:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.desototexas.gov/723/July-4th-Fireworks-Celebration",
+        "sourceName": "City of DeSoto",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Pre-fireworks community celebration and family activities on July 3rd in DeSoto."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "flower-mound-independence-fest-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.097,
+          33.0146
+        ]
+      },
+      "properties": {
+        "title": "Flower Mound Independence Fest 2026",
+        "slug": "flower-mound-independence-fest-2026",
+        "url": "https://fireworksnearme.top/en/events/flower-mound-independence-fest-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Flower Mound",
+        "venue": "Flower Mound Community Grounds",
+        "address": "Flower Mound, TX",
+        "startDate": "2026-07-04T11:00:00-05:00",
+        "fireworksAt": "2026-07-04T11:00:00-05:00",
+        "endDate": "2026-07-04T18:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.flowermound.gov/731/Independence-Fest",
+        "sourceName": "Town of Flower Mound",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Official Flower Mound Independence Fest source with festival and family activities."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "flower-mound-evening-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.097,
+          33.0146
+        ]
+      },
+      "properties": {
+        "title": "Flower Mound Evening Fireworks 2026",
+        "slug": "flower-mound-evening-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/flower-mound-evening-fireworks-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Flower Mound",
+        "venue": "Flower Mound Downtown Route",
+        "address": "Flower Mound, TX",
+        "startDate": "2026-07-04T18:00:00-05:00",
+        "fireworksAt": "2026-07-04T18:00:00-05:00",
+        "endDate": "2026-07-04T21:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.flowermound.gov/731/Independence-Fest",
+        "sourceName": "Town of Flower Mound",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Evening-facing community segment for Flower Mound's 2026 Independence Fest."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "tomball-4th-street-fest-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6161,
+          30.0972
+        ]
+      },
+      "properties": {
+        "title": "Tomball July 4th Celebration and Street Fest 2026",
+        "slug": "tomball-4th-street-fest-2026",
+        "url": "https://fireworksnearme.top/en/events/tomball-4th-street-fest-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Tomball",
+        "venue": "Business Highway 249 Corridor",
+        "address": "Tomball, TX",
+        "startDate": "2026-07-04T18:00:00-05:00",
+        "fireworksAt": "2026-07-04T18:00:00-05:00",
+        "endDate": "2026-07-04T21:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.tomballtx.gov/?mobile=ON&nid=1",
+        "sourceName": "City of Tomball",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Official Tomball announcement for the July 4 street-level family celebration."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "tomball-liberty-parade-evening-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6161,
+          30.0972
+        ]
+      },
+      "properties": {
+        "title": "Tomball July 4th Parade and Fireworks 2026",
+        "slug": "tomball-liberty-parade-evening-2026",
+        "url": "https://fireworksnearme.top/en/events/tomball-liberty-parade-evening-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Tomball",
+        "venue": "FM 2920 District Area",
+        "address": "Tomball, TX",
+        "startDate": "2026-07-04T18:00:00-05:00",
+        "fireworksAt": "2026-07-04T18:00:00-05:00",
+        "endDate": "2026-07-04T21:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.tomballtx.gov/?mobile=ON&nid=1",
+        "sourceName": "City of Tomball",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Parade and public-viewing segment aligned to Tomball's July 4 official city update."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "corona-july-4th-parade-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5664,
+          33.8753
+        ]
+      },
+      "properties": {
+        "title": "Corona July 4th Parade and Fireworks 2026",
+        "slug": "corona-july-4th-parade-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/corona-july-4th-parade-fireworks-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Corona",
+        "venue": "Main Street USA",
+        "address": "Main Street USA, Corona, CA",
+        "startDate": "2026-07-04T09:00:00-07:00",
+        "fireworksAt": "2026-07-04T09:00:00-07:00",
+        "endDate": "2026-07-04T22:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://community.coronaca.gov/coronaca_main/260142425",
+        "sourceName": "City of Corona",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Official City of Corona page for Main Street USA Independence Day parade and fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "corona-4th-of-july-family-night-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5664,
+          33.8753
+        ]
+      },
+      "properties": {
+        "title": "Corona July 4th Family Night 2026",
+        "slug": "corona-4th-of-july-family-night-2026",
+        "url": "https://fireworksnearme.top/en/events/corona-4th-of-july-family-night-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Corona",
+        "venue": "Main Street USA Main Route",
+        "address": "Main Street USA, Corona, CA",
+        "startDate": "2026-07-04T12:00:00-07:00",
+        "fireworksAt": "2026-07-04T12:00:00-07:00",
+        "endDate": "2026-07-04T20:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://community.coronaca.gov/coronaca_main/260142425",
+        "sourceName": "City of Corona",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Family program segment within Corona's official Independence Day event."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sarasota-america-250-july-fourth-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5307,
+          27.3364
+        ]
+      },
+      "properties": {
+        "title": "Sarasota July 4th Fireworks Celebration 2026",
+        "slug": "sarasota-america-250-july-fourth-2026",
+        "url": "https://fireworksnearme.top/en/events/sarasota-america-250-july-fourth-2026",
+        "country": "US",
+        "state": "FL",
+        "city": "Sarasota",
+        "venue": "Bayfront Park",
+        "address": "Bayfront Park, Sarasota, FL",
+        "startDate": "2026-07-04T21:00:00-05:00",
+        "fireworksAt": "2026-07-04T21:00:00-05:00",
+        "endDate": "2026-07-04T23:00:00-05:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.sarasotafl.gov/Department-Pages/City-Manager/250-America",
+        "sourceName": "City of Sarasota",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Official city celebration for America's 250th includes a July 4 fireworks evening block."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dallas-klyde-warren-evening-preview-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.797,
+          32.7767
+        ]
+      },
+      "properties": {
+        "title": "Dallas Klyde Warren Evening Preview 2026",
+        "slug": "dallas-klyde-warren-evening-preview-2026",
+        "url": "https://fireworksnearme.top/en/events/dallas-klyde-warren-evening-preview-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Dallas",
+        "venue": "Klyde Warren Park",
+        "address": "Klyde Warren Park, Dallas, TX",
+        "startDate": "2026-07-04T17:00:00-05:00",
+        "fireworksAt": "2026-07-04T17:00:00-05:00",
+        "endDate": "2026-07-04T19:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.klydewarrenpark.org/independence-day",
+        "sourceName": "Klyde Warren Park",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Early-day community programming and access support for Dallas Independence Day planning."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-lakefront-second-show-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "title": "Chicago Lakefront Evening Show 2026",
+        "slug": "chicago-lakefront-evening-show-2026",
+        "url": "https://fireworksnearme.top/en/events/chicago-lakefront-evening-show-2026",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Navy Pier Lakefront",
+        "address": "Navy Pier, Chicago, IL",
+        "startDate": "2026-07-04T21:00:00-05:00",
+        "fireworksAt": "2026-07-04T21:00:00-05:00",
+        "endDate": "2026-07-04T22:30:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/pier-events/independence-day-fireworks/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Additional practical Chicago lakefront viewing option from the same official event page."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nashville-let-freedom-sing-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7775,
+          36.1612
+        ]
+      },
+      "properties": {
+        "title": "Nashville Let Freedom Sing 2026",
+        "slug": "nashville-let-freedom-sing-2026",
+        "url": "https://fireworksnearme.top/en/events/nashville-let-freedom-sing-2026",
+        "country": "US",
+        "state": "TN",
+        "city": "Nashville",
+        "venue": "Downtown Nashville riverfront stages",
+        "address": "Downtown Nashville, TN",
+        "startDate": "2026-07-04T13:00:00-05:00",
+        "fireworksAt": "2026-07-04T13:00:00-05:00",
+        "endDate": "2026-07-04T23:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.nashville.com/event/music-citys-4th-of-july-let-freedom-sing-nashville-tn/",
+        "sourceName": "Nashville.com (official partner page)",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Downtown Nashville July 4 celebration featuring official partner programming and fireworks access guidance."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "seattle-seafair-fourth-of-july-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3262,
+          47.6477
+        ]
+      },
+      "properties": {
+        "title": "Seattle Seafair Fourth of July 2026",
+        "slug": "seattle-seafair-fourth-of-july-2026",
+        "url": "https://fireworksnearme.top/en/events/seattle-seafair-fourth-of-july-2026",
+        "country": "US",
+        "state": "WA",
+        "city": "Seattle",
+        "venue": "South Lake Union and Gas Works Park",
+        "address": "South Lake Union / Gas Works Park, Seattle, WA",
+        "startDate": "2026-07-04T15:00:00-07:00",
+        "fireworksAt": "2026-07-04T15:00:00-07:00",
+        "endDate": "2026-07-04T23:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.seafair.org/4th-of-july",
+        "sourceName": "Seafair Official",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Official Seafair 4th of July program in Seattle with multiple family-friendly viewing areas."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "las-vegas-strip-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1728,
+          36.1147
+        ]
+      },
+      "properties": {
+        "title": "Las Vegas Strip 4th of July Fireworks 2026",
+        "slug": "las-vegas-strip-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/las-vegas-strip-fireworks-2026",
+        "country": "US",
+        "state": "NV",
+        "city": "Las Vegas",
+        "venue": "Las Vegas Strip resort rooftops",
+        "address": "Las Vegas Boulevard, Las Vegas, NV",
+        "startDate": "2026-07-04T21:00:00-07:00",
+        "fireworksAt": "2026-07-04T21:00:00-07:00",
+        "endDate": "2026-07-04T21:30:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.lvcva.com/",
+        "sourceName": "Las Vegas Convention and Visitors Authority",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Coordinated Las Vegas Strip resort fireworks on Caesars Palace, Aria, MGM Grand, and The STRAT for July 4."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "las-vegas-downtown-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1391,
+          36.1716
+        ]
+      },
+      "properties": {
+        "title": "Las Vegas Downtown Fremont Fireworks 2026",
+        "slug": "las-vegas-downtown-fremont-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/las-vegas-downtown-fremont-fireworks-2026",
+        "country": "US",
+        "state": "NV",
+        "city": "Las Vegas",
+        "venue": "Fremont Street Experience",
+        "address": "Fremont Street, Las Vegas, NV 89101",
+        "startDate": "2026-07-04T22:00:00-07:00",
+        "fireworksAt": "2026-07-04T22:00:00-07:00",
+        "endDate": "2026-07-04T22:20:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://vegasexperience.com/",
+        "sourceName": "Fremont Street Experience",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Downtown Las Vegas rooftop pyrotechnic show over the Fremont Street Experience canopy."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "reno-star-spangled-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8138,
+          39.5296
+        ]
+      },
+      "properties": {
+        "title": "Reno Star Spangled Sparks 2026",
+        "slug": "reno-star-spangled-sparks-2026",
+        "url": "https://fireworksnearme.top/en/events/reno-star-spangled-sparks-2026",
+        "country": "US",
+        "state": "NV",
+        "city": "Reno",
+        "venue": "Sparks Marina Park",
+        "address": "Sparks Marina Park, Sparks, NV",
+        "startDate": "2026-07-04T21:30:00-07:00",
+        "fireworksAt": "2026-07-04T21:30:00-07:00",
+        "endDate": "2026-07-04T22:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.cityofsparks.us/",
+        "sourceName": "City of Sparks",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Reno-Sparks July 4 fireworks launch over Sparks Marina with lakeside family viewing."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "atlanta-centennial-olympic-park-fourth-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.388,
+          33.749
+        ]
+      },
+      "properties": {
+        "title": "Atlanta Fourth in the Park 2026",
+        "slug": "atlanta-fourth-in-the-park-2026",
+        "url": "https://fireworksnearme.top/en/events/atlanta-fourth-in-the-park-2026",
+        "country": "US",
+        "state": "GA",
+        "city": "Atlanta",
+        "venue": "Centennial Olympic Park",
+        "address": "265 Park Ave W NW, Atlanta, GA 30313",
+        "startDate": "2026-07-04T21:30:00-04:00",
+        "fireworksAt": "2026-07-04T21:30:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.gwcca.org/centennial-olympic-park/",
+        "sourceName": "Georgia World Congress Center Authority",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Centennial Olympic Park hosts Atlanta's flagship Independence Day fireworks with downtown skyline viewing."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "atlanta-lenox-square-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3624,
+          33.846
+        ]
+      },
+      "properties": {
+        "title": "Atlanta Lenox Square Fireworks 2026",
+        "slug": "atlanta-lenox-square-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/atlanta-lenox-square-fireworks-2026",
+        "country": "US",
+        "state": "GA",
+        "city": "Atlanta",
+        "venue": "Lenox Square",
+        "address": "3393 Peachtree Rd NE, Atlanta, GA 30326",
+        "startDate": "2026-07-04T21:30:00-04:00",
+        "fireworksAt": "2026-07-04T21:30:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.simon.com/mall/lenox-square",
+        "sourceName": "Lenox Square (Simon Property Group)",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Buckhead's annual Independence Day fireworks launch from Lenox Square with rooftop and street viewing."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "stone-mountain-laser-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1454,
+          33.8053
+        ]
+      },
+      "properties": {
+        "title": "Stone Mountain Laser Show and Fireworks 2026",
+        "slug": "stone-mountain-laser-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/stone-mountain-laser-fireworks-2026",
+        "country": "US",
+        "state": "GA",
+        "city": "Stone Mountain",
+        "venue": "Stone Mountain Park Memorial Lawn",
+        "address": "1000 Robert E Lee Blvd, Stone Mountain, GA 30083",
+        "startDate": "2026-07-04T21:30:00-04:00",
+        "fireworksAt": "2026-07-04T21:30:00-04:00",
+        "endDate": "2026-07-04T22:30:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://stonemountainpark.com/",
+        "sourceName": "Stone Mountain Park",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Stone Mountain Park combines a nightly laser show with extended Independence Day fireworks for the holiday weekend."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "savannah-fireworks-river-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0912,
+          32.0809
+        ]
+      },
+      "properties": {
+        "title": "Savannah Independence Day Fireworks 2026",
+        "slug": "savannah-independence-day-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/savannah-independence-day-fireworks-2026",
+        "country": "US",
+        "state": "GA",
+        "city": "Savannah",
+        "venue": "River Street",
+        "address": "River Street, Savannah, GA 31401",
+        "startDate": "2026-07-04T21:15:00-04:00",
+        "fireworksAt": "2026-07-04T21:15:00-04:00",
+        "endDate": "2026-07-04T21:45:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.savannahga.gov/",
+        "sourceName": "City of Savannah",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Fireworks launch over the Savannah River with public viewing from River Street and Hutchinson Island."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "phoenix-fabulous-fourth-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074,
+          33.4484
+        ]
+      },
+      "properties": {
+        "title": "Fabulous Phoenix 4th 2026",
+        "slug": "fabulous-phoenix-4th-2026",
+        "url": "https://fireworksnearme.top/en/events/fabulous-phoenix-4th-2026",
+        "country": "US",
+        "state": "AZ",
+        "city": "Phoenix",
+        "venue": "Margaret T. Hance Park",
+        "address": "67 W Culver St, Phoenix, AZ 85003",
+        "startDate": "2026-07-04T21:30:00-07:00",
+        "fireworksAt": "2026-07-04T21:30:00-07:00",
+        "endDate": "2026-07-04T22:00:00-07:00",
+        "timezone": "America/Phoenix",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.phoenix.gov/parks",
+        "sourceName": "City of Phoenix Parks and Recreation",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Phoenix's flagship July 4 celebration centers on Margaret T. Hance Park with food trucks, music, and fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "westgate-glendale-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.186,
+          33.5387
+        ]
+      },
+      "properties": {
+        "title": "Westgate Glendale Summer Fireworks 2026",
+        "slug": "westgate-glendale-summer-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/westgate-glendale-summer-fireworks-2026",
+        "country": "US",
+        "state": "AZ",
+        "city": "Glendale",
+        "venue": "Westgate Entertainment District",
+        "address": "6770 N Sunrise Blvd, Glendale, AZ 85305",
+        "startDate": "2026-07-04T21:00:00-07:00",
+        "fireworksAt": "2026-07-04T21:00:00-07:00",
+        "endDate": "2026-07-04T21:30:00-07:00",
+        "timezone": "America/Phoenix",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.westgateaz.com/",
+        "sourceName": "Westgate Entertainment District",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Westgate hosts Glendale's largest July 4 fireworks with State Farm Stadium-area viewing."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "tempe-town-lake-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.94,
+          33.4255
+        ]
+      },
+      "properties": {
+        "title": "Tempe Town Lake 4th of July 2026",
+        "slug": "tempe-town-lake-4th-of-july-2026",
+        "url": "https://fireworksnearme.top/en/events/tempe-town-lake-4th-of-july-2026",
+        "country": "US",
+        "state": "AZ",
+        "city": "Tempe",
+        "venue": "Tempe Beach Park",
+        "address": "80 W Rio Salado Pkwy, Tempe, AZ 85281",
+        "startDate": "2026-07-04T21:00:00-07:00",
+        "fireworksAt": "2026-07-04T21:00:00-07:00",
+        "endDate": "2026-07-04T21:30:00-07:00",
+        "timezone": "America/Phoenix",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.tempe.gov/",
+        "sourceName": "City of Tempe",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Tempe Town Lake hosts a coordinated Independence Day fireworks show with shoreline viewing."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "portland-waterfront-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6711,
+          45.5194
+        ]
+      },
+      "properties": {
+        "title": "Waterfront Blues Festival Fireworks 2026",
+        "slug": "portland-waterfront-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/portland-waterfront-fireworks-2026",
+        "country": "US",
+        "state": "OR",
+        "city": "Portland",
+        "venue": "Tom McCall Waterfront Park",
+        "address": "98 SW Naito Pkwy, Portland, OR 97204",
+        "startDate": "2026-07-04T22:00:00-07:00",
+        "fireworksAt": "2026-07-04T22:00:00-07:00",
+        "endDate": "2026-07-04T22:30:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.travelportland.com/",
+        "sourceName": "Travel Portland",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Portland Waterfront fireworks coincide with the Waterfront Blues Festival weekend."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "charlotte-skyshow-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8432,
+          35.227
+        ]
+      },
+      "properties": {
+        "title": "Charlotte SkyShow 2026",
+        "slug": "charlotte-skyshow-2026",
+        "url": "https://fireworksnearme.top/en/events/charlotte-skyshow-2026",
+        "country": "US",
+        "state": "NC",
+        "city": "Charlotte",
+        "venue": "Truist Field",
+        "address": "324 S Mint St, Charlotte, NC 28202",
+        "startDate": "2026-07-04T21:45:00-04:00",
+        "fireworksAt": "2026-07-04T21:45:00-04:00",
+        "endDate": "2026-07-04T22:15:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.milb.com/charlotte-knights/events/starsandstripesspectacular",
+        "sourceName": "Charlotte Knights",
+        "verifiedAt": "2026-05-30",
+        "lastUpdated": "2026-05-30",
+        "summary": "Charlotte's flagship Independence Day fireworks launch from Truist Field with stadium and Uptown viewing."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "raleigh-works-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6382,
+          35.7796
+        ]
+      },
+      "properties": {
+        "title": "Raleigh The Works Fireworks 2026",
+        "slug": "raleigh-the-works-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/raleigh-the-works-fireworks-2026",
+        "country": "US",
+        "state": "NC",
+        "city": "Raleigh",
+        "venue": "Dorothea Dix Park",
+        "address": "Dorothea Dix Park, Raleigh, NC",
+        "startDate": "2026-07-04T21:30:00-04:00",
+        "fireworksAt": "2026-07-04T21:30:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.raleighnc.gov/",
+        "sourceName": "City of Raleigh",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Raleigh's downtown Independence Day program ends with fireworks over Dorothea Dix Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "memphis-star-spangled-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.049,
+          35.1495
+        ]
+      },
+      "properties": {
+        "title": "Memphis Star Spangled Celebration 2026",
+        "slug": "memphis-star-spangled-celebration-2026",
+        "url": "https://fireworksnearme.top/en/events/memphis-star-spangled-celebration-2026",
+        "country": "US",
+        "state": "TN",
+        "city": "Memphis",
+        "venue": "Tom Lee Park",
+        "address": "Tom Lee Park, Memphis, TN 38103",
+        "startDate": "2026-07-04T21:15:00-05:00",
+        "fireworksAt": "2026-07-04T21:15:00-05:00",
+        "endDate": "2026-07-04T21:45:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.memphistn.gov/",
+        "sourceName": "City of Memphis",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Memphis Independence Day fireworks launch from Mud Island over the Mississippi River."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "minneapolis-red-white-boom-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.265,
+          44.9778
+        ]
+      },
+      "properties": {
+        "title": "Minneapolis Red White and Boom 2026",
+        "slug": "minneapolis-red-white-and-boom-2026",
+        "url": "https://fireworksnearme.top/en/events/minneapolis-red-white-and-boom-2026",
+        "country": "US",
+        "state": "MN",
+        "city": "Minneapolis",
+        "venue": "Boom Island Park",
+        "address": "Boom Island Park, Minneapolis, MN",
+        "startDate": "2026-07-04T22:00:00-05:00",
+        "fireworksAt": "2026-07-04T22:00:00-05:00",
+        "endDate": "2026-07-04T22:30:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.minneapolisparks.org/",
+        "sourceName": "Minneapolis Park and Recreation Board",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Minneapolis Park Board hosts the city's flagship July 4 fireworks over the Mississippi River from Boom Island Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fair-saint-louis-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1848,
+          38.6247
+        ]
+      },
+      "properties": {
+        "title": "Fair Saint Louis 2026",
+        "slug": "fair-saint-louis-2026",
+        "url": "https://fireworksnearme.top/en/events/fair-saint-louis-2026",
+        "country": "US",
+        "state": "MO",
+        "city": "St. Louis",
+        "venue": "Gateway Arch National Park",
+        "address": "Gateway Arch National Park, St. Louis, MO 63102",
+        "startDate": "2026-07-04T21:30:00-05:00",
+        "fireworksAt": "2026-07-04T21:30:00-05:00",
+        "endDate": "2026-07-04T22:15:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.fairsaintlouis.org/",
+        "sourceName": "Fair Saint Louis (America's Birthday Party)",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Fair Saint Louis hosts the city's flagship Independence Day fireworks under the Gateway Arch."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "kansas-city-riverfront-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5807,
+          39.1163
+        ]
+      },
+      "properties": {
+        "title": "Kansas City Riverfront Fireworks 2026",
+        "slug": "kansas-city-riverfront-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/kansas-city-riverfront-fireworks-2026",
+        "country": "US",
+        "state": "MO",
+        "city": "Kansas City",
+        "venue": "Berkley Riverfront Park",
+        "address": "Berkley Riverfront Park, Kansas City, MO",
+        "startDate": "2026-07-04T21:30:00-05:00",
+        "fireworksAt": "2026-07-04T21:30:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.kcmo.gov/",
+        "sourceName": "City of Kansas City",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Berkley Riverfront Park hosts Kansas City's public Independence Day fireworks with Missouri River views."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cambridge-memorial-drive-viewing-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1097,
+          42.3736
+        ]
+      },
+      "properties": {
+        "title": "Cambridge Memorial Drive Fireworks Viewing 2026",
+        "slug": "cambridge-memorial-drive-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/cambridge-memorial-drive-fireworks-2026",
+        "country": "US",
+        "state": "MA",
+        "city": "Cambridge",
+        "venue": "Memorial Drive",
+        "address": "Memorial Drive, Cambridge, MA",
+        "startDate": "2026-07-04T22:30:00-04:00",
+        "fireworksAt": "2026-07-04T22:30:00-04:00",
+        "endDate": "2026-07-04T23:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.cambridgema.gov/",
+        "sourceName": "City of Cambridge",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Cambridge's Charles River bank serves as the unticketed alternative to the Esplanade for the Boston Pops fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "wawa-welcome-america-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1652,
+          39.9526
+        ]
+      },
+      "properties": {
+        "title": "Wawa Welcome America Fireworks 2026",
+        "slug": "wawa-welcome-america-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/wawa-welcome-america-fireworks-2026",
+        "country": "US",
+        "state": "PA",
+        "city": "Philadelphia",
+        "venue": "Benjamin Franklin Parkway",
+        "address": "Benjamin Franklin Parkway, Philadelphia, PA",
+        "startDate": "2026-07-04T22:30:00-04:00",
+        "fireworksAt": "2026-07-04T22:30:00-04:00",
+        "endDate": "2026-07-04T23:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://welcomeamerica.com/",
+        "sourceName": "Wawa Welcome America",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Philadelphia's premier July 4 festival ends with fireworks over the Philadelphia Museum of Art."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "penns-landing-summer-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.142,
+          39.9485
+        ]
+      },
+      "properties": {
+        "title": "Penn's Landing Summer Concert Fireworks 2026",
+        "slug": "penns-landing-summer-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/penns-landing-summer-fireworks-2026",
+        "country": "US",
+        "state": "PA",
+        "city": "Philadelphia",
+        "venue": "Great Plaza at Penn's Landing",
+        "address": "101 S Christopher Columbus Blvd, Philadelphia, PA 19106",
+        "startDate": "2026-07-04T22:15:00-04:00",
+        "fireworksAt": "2026-07-04T22:15:00-04:00",
+        "endDate": "2026-07-04T22:30:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.delawareriverwaterfront.com/",
+        "sourceName": "Delaware River Waterfront Corporation",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Penn's Landing hosts an additional July 4 fireworks display over the Delaware River."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "big-bay-boom-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1611,
+          32.7157
+        ]
+      },
+      "properties": {
+        "title": "Big Bay Boom San Diego 2026",
+        "slug": "big-bay-boom-san-diego-2026",
+        "url": "https://fireworksnearme.top/en/events/big-bay-boom-san-diego-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "San Diego",
+        "venue": "San Diego Bay",
+        "address": "San Diego Bay, San Diego, CA",
+        "startDate": "2026-07-04T21:00:00-07:00",
+        "fireworksAt": "2026-07-04T21:00:00-07:00",
+        "endDate": "2026-07-04T21:18:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.bigbayboom.com/",
+        "sourceName": "Big Bay Boom",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Big Bay Boom is San Diego's coordinated four-barge fireworks event launched simultaneously across San Diego Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "la-jolla-cove-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2725,
+          32.8497
+        ]
+      },
+      "properties": {
+        "title": "La Jolla Cove Fireworks 2026",
+        "slug": "la-jolla-cove-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/la-jolla-cove-fireworks-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "San Diego",
+        "venue": "La Jolla Cove",
+        "address": "La Jolla Cove, San Diego, CA",
+        "startDate": "2026-07-04T21:00:00-07:00",
+        "fireworksAt": "2026-07-04T21:00:00-07:00",
+        "endDate": "2026-07-04T21:15:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.lajollabythesea.com/",
+        "sourceName": "La Jolla by the Sea",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "La Jolla Cove hosts its own coastal fireworks separate from Big Bay Boom."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bellevue-downtown-park-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2007,
+          47.6133
+        ]
+      },
+      "properties": {
+        "title": "Bellevue Downtown Park Fireworks 2026",
+        "slug": "bellevue-downtown-park-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/bellevue-downtown-park-fireworks-2026",
+        "country": "US",
+        "state": "WA",
+        "city": "Bellevue",
+        "venue": "Bellevue Downtown Park",
+        "address": "10201 NE 4th St, Bellevue, WA 98004",
+        "startDate": "2026-07-04T22:00:00-07:00",
+        "fireworksAt": "2026-07-04T22:00:00-07:00",
+        "endDate": "2026-07-04T22:20:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://bellevuewa.gov/",
+        "sourceName": "City of Bellevue",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Bellevue Downtown Park hosts the East Side's family-focused July 4 fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "la-hollywood-bowl-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      },
+      "properties": {
+        "title": "Hollywood Bowl Fireworks Spectacular 2026",
+        "slug": "hollywood-bowl-fireworks-spectacular-2026",
+        "url": "https://fireworksnearme.top/en/events/hollywood-bowl-fireworks-spectacular-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+        "startDate": "2026-07-04T20:30:00-07:00",
+        "fireworksAt": "2026-07-04T20:30:00-07:00",
+        "endDate": "2026-07-04T22:30:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.hollywoodbowl.com/",
+        "sourceName": "Hollywood Bowl",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Hollywood Bowl's Fireworks Spectacular is a ticketed three-night concert series with full-orchestra fireworks finale."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "la-grand-park-block-party-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2461,
+          34.0556
+        ]
+      },
+      "properties": {
+        "title": "Grand Park 4th of July Block Party 2026",
+        "slug": "la-grand-park-block-party-2026",
+        "url": "https://fireworksnearme.top/en/events/la-grand-park-block-party-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Los Angeles",
+        "venue": "Grand Park",
+        "address": "200 N Grand Ave, Los Angeles, CA 90012",
+        "startDate": "2026-07-04T20:30:00-07:00",
+        "fireworksAt": "2026-07-04T20:30:00-07:00",
+        "endDate": "2026-07-04T22:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://grandparkla.org/",
+        "sourceName": "Grand Park (Los Angeles County)",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Grand Park's free Independence Day Block Party closes with fireworks over the Civic Center."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "miami-bayfront-park-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1865,
+          25.7745
+        ]
+      },
+      "properties": {
+        "title": "Miami Bayfront Park Fireworks 2026",
+        "slug": "miami-bayfront-park-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/miami-bayfront-park-fireworks-2026",
+        "country": "US",
+        "state": "FL",
+        "city": "Miami",
+        "venue": "Bayfront Park",
+        "address": "301 Biscayne Blvd, Miami, FL 33132",
+        "startDate": "2026-07-04T21:00:00-04:00",
+        "fireworksAt": "2026-07-04T21:00:00-04:00",
+        "endDate": "2026-07-04T21:30:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.miamigov.com/",
+        "sourceName": "City of Miami",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Bayfront Park hosts Miami's flagship Independence Day fireworks over Biscayne Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "tampa-boom-by-the-bay-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4604,
+          27.948
+        ]
+      },
+      "properties": {
+        "title": "Tampa Boom by the Bay 2026",
+        "slug": "tampa-boom-by-the-bay-2026",
+        "url": "https://fireworksnearme.top/en/events/tampa-boom-by-the-bay-2026",
+        "country": "US",
+        "state": "FL",
+        "city": "Tampa",
+        "venue": "Curtis Hixon Waterfront Park",
+        "address": "600 N Ashley Dr, Tampa, FL 33602",
+        "startDate": "2026-07-04T21:15:00-04:00",
+        "fireworksAt": "2026-07-04T21:15:00-04:00",
+        "endDate": "2026-07-04T21:45:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.tampa.gov/",
+        "sourceName": "City of Tampa",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Tampa's Boom by the Bay launches fireworks over the Hillsborough River at Curtis Hixon Waterfront Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "detroit-river-days-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0432,
+          42.3284
+        ]
+      },
+      "properties": {
+        "title": "Detroit River Days Fireworks 2026",
+        "slug": "detroit-river-days-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/detroit-river-days-fireworks-2026",
+        "country": "US",
+        "state": "MI",
+        "city": "Detroit",
+        "venue": "Hart Plaza",
+        "address": "Hart Plaza, Detroit, MI",
+        "startDate": "2026-07-04T22:00:00-04:00",
+        "fireworksAt": "2026-07-04T22:00:00-04:00",
+        "endDate": "2026-07-04T22:30:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.visitdetroit.com/",
+        "sourceName": "Visit Detroit",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Detroit's riverfront fireworks at Hart Plaza coordinate with Windsor for a cross-border display."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "new-orleans-go-4th-on-river-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0715,
+          29.9511
+        ]
+      },
+      "properties": {
+        "title": "New Orleans Go 4th on the River 2026",
+        "slug": "new-orleans-go-4th-on-the-river-2026",
+        "url": "https://fireworksnearme.top/en/events/new-orleans-go-4th-on-the-river-2026",
+        "country": "US",
+        "state": "LA",
+        "city": "New Orleans",
+        "venue": "Mississippi River",
+        "address": "Mississippi Riverfront, New Orleans, LA",
+        "startDate": "2026-07-04T21:00:00-05:00",
+        "fireworksAt": "2026-07-04T21:00:00-05:00",
+        "endDate": "2026-07-04T21:30:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.go4thontheriver.com/",
+        "sourceName": "Go 4th on the River",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Go 4th on the River is New Orleans' dual-barge fireworks launch over the Mississippi River."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "honolulu-ala-moana-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8581,
+          21.3099
+        ]
+      },
+      "properties": {
+        "title": "Honolulu Ala Moana Beach Fireworks 2026",
+        "slug": "honolulu-ala-moana-beach-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/honolulu-ala-moana-beach-fireworks-2026",
+        "country": "US",
+        "state": "HI",
+        "city": "Honolulu",
+        "venue": "Ala Moana Beach Park",
+        "address": "1201 Ala Moana Blvd, Honolulu, HI 96814",
+        "startDate": "2026-07-04T20:30:00-10:00",
+        "fireworksAt": "2026-07-04T20:30:00-10:00",
+        "endDate": "2026-07-04T21:00:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.honolulu.gov/parks",
+        "sourceName": "Honolulu Department of Parks and Recreation",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Ala Moana Beach Park hosts Oahu's largest public Independence Day fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "denver-civic-center-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9847,
+          39.7392
+        ]
+      },
+      "properties": {
+        "title": "Denver Civic Center Fireworks 2026",
+        "slug": "denver-civic-center-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/denver-civic-center-fireworks-2026",
+        "country": "US",
+        "state": "CO",
+        "city": "Denver",
+        "venue": "Civic Center Park",
+        "address": "101 W 14th Ave Pkwy, Denver, CO 80204",
+        "startDate": "2026-07-04T21:30:00-06:00",
+        "fireworksAt": "2026-07-04T21:30:00-06:00",
+        "endDate": "2026-07-04T22:00:00-06:00",
+        "timezone": "America/Denver",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.denvergov.org/",
+        "sourceName": "City and County of Denver",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Civic Center Park hosts Denver's downtown Independence Day fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "denver-coors-field-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9903,
+          39.7392
+        ]
+      },
+      "properties": {
+        "title": "Coors Field Fireworks Night 2026",
+        "slug": "denver-coors-field-fireworks-night-2026",
+        "url": "https://fireworksnearme.top/en/events/denver-coors-field-fireworks-night-2026",
+        "country": "US",
+        "state": "CO",
+        "city": "Denver",
+        "venue": "Coors Field",
+        "address": "2001 Blake St, Denver, CO 80205",
+        "startDate": "2026-07-04T22:00:00-06:00",
+        "fireworksAt": "2026-07-04T22:00:00-06:00",
+        "endDate": "2026-07-04T22:30:00-06:00",
+        "timezone": "America/Denver",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.mlb.com/rockies/ballpark",
+        "sourceName": "Colorado Rockies (Coors Field)",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "The Colorado Rockies host the city's biggest postgame fireworks on July 4 at Coors Field."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "indianapolis-downtown-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1581,
+          39.7684
+        ]
+      },
+      "properties": {
+        "title": "Downtown Indy Fourth Fest 2026",
+        "slug": "indianapolis-downtown-fourth-fest-2026",
+        "url": "https://fireworksnearme.top/en/events/indianapolis-downtown-fourth-fest-2026",
+        "country": "US",
+        "state": "IN",
+        "city": "Indianapolis",
+        "venue": "White River State Park",
+        "address": "801 W Washington St, Indianapolis, IN 46204",
+        "startDate": "2026-07-04T22:00:00-04:00",
+        "fireworksAt": "2026-07-04T22:00:00-04:00",
+        "endDate": "2026-07-04T22:30:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://downtownindy.org/",
+        "sourceName": "Downtown Indy Inc.",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Indianapolis closes Independence Day with fireworks over White River State Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "chicago-navy-pier-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6051,
+          41.8919
+        ]
+      },
+      "properties": {
+        "title": "Navy Pier Independence Day Fireworks 2026",
+        "slug": "chicago-navy-pier-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/chicago-navy-pier-fireworks-2026",
+        "country": "US",
+        "state": "IL",
+        "city": "Chicago",
+        "venue": "Navy Pier",
+        "address": "600 E Grand Ave, Chicago, IL 60611",
+        "startDate": "2026-07-04T22:15:00-05:00",
+        "fireworksAt": "2026-07-04T22:15:00-05:00",
+        "endDate": "2026-07-04T22:30:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://navypier.org/",
+        "sourceName": "Navy Pier",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Navy Pier launches its summer fireworks series with an extended Independence Day program."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "san-antonio-stars-stripes-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4936,
+          29.4241
+        ]
+      },
+      "properties": {
+        "title": "San Antonio Stars and Stripes Over San Antonio 2026",
+        "slug": "san-antonio-stars-and-stripes-2026",
+        "url": "https://fireworksnearme.top/en/events/san-antonio-stars-and-stripes-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "San Antonio",
+        "venue": "Woodlawn Lake Park",
+        "address": "1103 Cincinnati Ave, San Antonio, TX 78201",
+        "startDate": "2026-07-04T21:30:00-05:00",
+        "fireworksAt": "2026-07-04T21:30:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://saparks.org/events/the-h-e-b-fourth-of-july-celebration/",
+        "sourceName": "San Antonio Parks Foundation",
+        "verifiedAt": "2026-05-30",
+        "lastUpdated": "2026-05-30",
+        "summary": "Stars and Stripes Over San Antonio launches fireworks over Woodlawn Lake."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pittsburgh-point-state-park-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9959,
+          40.4406
+        ]
+      },
+      "properties": {
+        "title": "Pittsburgh Point State Park Fireworks 2026",
+        "slug": "pittsburgh-point-state-park-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/pittsburgh-point-state-park-fireworks-2026",
+        "country": "US",
+        "state": "PA",
+        "city": "Pittsburgh",
+        "venue": "Point State Park",
+        "address": "601 Commonwealth Pl, Pittsburgh, PA 15222",
+        "startDate": "2026-07-04T21:30:00-04:00",
+        "fireworksAt": "2026-07-04T21:30:00-04:00",
+        "endDate": "2026-07-04T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.pittsburghpa.gov/",
+        "sourceName": "City of Pittsburgh",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Pittsburgh's flagship Independence Day fireworks launch from Point State Park at the rivers' confluence."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "houston-freedom-over-texas-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3698,
+          29.7604
+        ]
+      },
+      "properties": {
+        "title": "Freedom Over Texas Fireworks 2026",
+        "slug": "houston-freedom-over-texas-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/houston-freedom-over-texas-fireworks-2026",
+        "country": "US",
+        "state": "TX",
+        "city": "Houston",
+        "venue": "Eleanor Tinsley Park",
+        "address": "500 Allen Pkwy, Houston, TX 77019",
+        "startDate": "2026-07-04T21:35:00-05:00",
+        "fireworksAt": "2026-07-04T21:35:00-05:00",
+        "endDate": "2026-07-04T22:00:00-05:00",
+        "timezone": "America/Chicago",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.houstontx.gov/",
+        "sourceName": "City of Houston",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Freedom Over Texas is Houston's ticketed Independence Day festival ending with citywide fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "nyc-coney-island-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9442,
+          40.6782
+        ]
+      },
+      "properties": {
+        "title": "Coney Island Friday Night Fireworks 2026",
+        "slug": "nyc-coney-island-friday-night-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/nyc-coney-island-friday-night-fireworks-2026",
+        "country": "US",
+        "state": "NY",
+        "city": "Brooklyn",
+        "venue": "Coney Island Boardwalk",
+        "address": "Coney Island Boardwalk, Brooklyn, NY",
+        "startDate": "2026-07-03T21:30:00-04:00",
+        "fireworksAt": "2026-07-03T21:30:00-04:00",
+        "endDate": "2026-07-03T22:00:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.coneyisland.com/",
+        "sourceName": "Coney Island",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Coney Island's Friday Night Fireworks series stages an extended program over the holiday weekend."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "san-jose-discovery-park-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8863,
+          37.3382
+        ]
+      },
+      "properties": {
+        "title": "San Jose Discovery Park Fourth of July 2026",
+        "slug": "san-jose-discovery-park-fourth-of-july-2026",
+        "url": "https://fireworksnearme.top/en/events/san-jose-discovery-park-fourth-of-july-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "San Jose",
+        "venue": "Discovery Meadow",
+        "address": "180 Woz Way, San Jose, CA 95110",
+        "startDate": "2026-07-04T21:30:00-07:00",
+        "fireworksAt": "2026-07-04T21:30:00-07:00",
+        "endDate": "2026-07-04T22:00:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.sanjoseca.gov/",
+        "sourceName": "City of San Jose",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "San Jose Discovery Park hosts the South Bay's largest free Independence Day fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "oakland-jack-london-square-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2712,
+          37.8044
+        ]
+      },
+      "properties": {
+        "title": "Oakland Jack London Square Fireworks 2026",
+        "slug": "oakland-jack-london-square-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/oakland-jack-london-square-fireworks-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Oakland",
+        "venue": "Jack London Square",
+        "address": "472 Water St, Oakland, CA 94607",
+        "startDate": "2026-07-04T21:00:00-07:00",
+        "fireworksAt": "2026-07-04T21:00:00-07:00",
+        "endDate": "2026-07-04T21:30:00-07:00",
+        "timezone": "America/Los_Angeles",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://jacklondonsquare.com/",
+        "sourceName": "Jack London Square",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Jack London Square launches Oakland's public Fourth of July fireworks over the estuary."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "buffalo-canalside-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8819,
+          42.8773
+        ]
+      },
+      "properties": {
+        "title": "Buffalo Canalside Fireworks 2026",
+        "slug": "buffalo-canalside-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/buffalo-canalside-fireworks-2026",
+        "country": "US",
+        "state": "NY",
+        "city": "Buffalo",
+        "venue": "Canalside Buffalo",
+        "address": "44 Prime St, Buffalo, NY 14202",
+        "startDate": "2026-07-04T22:00:00-04:00",
+        "fireworksAt": "2026-07-04T22:00:00-04:00",
+        "endDate": "2026-07-04T22:30:00-04:00",
+        "timezone": "America/New_York",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://buffalowaterfront.com/events/4th-of-july-weekend-on-the-waterfront?date=Saturday%2C+July+4%2C+2026",
+        "sourceName": "Buffalo Waterfront",
+        "verifiedAt": "2026-05-30",
+        "lastUpdated": "2026-05-30",
+        "summary": "Canalside Buffalo hosts the city's flagship Independence Day fireworks over Lake Erie."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "slc-sugar-house-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Salt Lake City Sugar House Park Fireworks 2026",
+        "slug": "slc-sugar-house-park-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/slc-sugar-house-park-fireworks-2026",
+        "country": "US",
+        "state": "UT",
+        "city": "Salt Lake City",
+        "venue": "Sugar House Park",
+        "address": "1330 E 2100 S, Salt Lake City, UT 84106",
+        "startDate": "2026-07-04T22:00:00-06:00",
+        "fireworksAt": "2026-07-04T22:00:00-06:00",
+        "endDate": "2026-07-04T22:30:00-06:00",
+        "timezone": "America/Denver",
+        "status": "past",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.slc.gov/",
+        "sourceName": "Salt Lake City Corporation",
+        "verifiedAt": "2026-05-27",
+        "lastUpdated": "2026-05-27",
+        "summary": "Sugar House Park hosts Salt Lake City's public Independence Day fireworks with valley-wide visibility."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "orlando-disney-magic-kingdom-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5812,
+          28.4177
+        ]
+      },
+      "properties": {
+        "title": "Disney Magic Kingdom Happily Ever After Fireworks",
+        "slug": "orlando-disney-magic-kingdom-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/orlando-disney-magic-kingdom-fireworks-2026",
+        "country": "US",
+        "state": "FL",
+        "city": "Orlando",
+        "venue": "Magic Kingdom Park, Walt Disney World Resort",
+        "address": "1180 Seven Seas Dr, Lake Buena Vista, FL 32830",
+        "startDate": "2026-11-28T20:00:00-05:00",
+        "fireworksAt": "2026-11-28T20:00:00-05:00",
+        "endDate": "2026-11-28T20:20:00-05:00",
+        "timezone": "America/New_York",
+        "status": "tentative",
+        "admissionType": "paid",
+        "isFree": false,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://disneyworld.disney.go.com/entertainment/magic-kingdom/happily-ever-after-fireworks/",
+        "sourceName": "Walt Disney World Official Site",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Happily Ever After pairs aerial fireworks with castle projections at Magic Kingdom. Park admission is required for the in-park experience. Check Disney's dated entertainment calendar for the November 28 showtime."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "anaheim-disneyland-park-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.919,
+          33.8121
+        ]
+      },
+      "properties": {
+        "title": "Disneyland Park Anaheim Nighttime Fireworks Spectacular",
+        "slug": "anaheim-disneyland-park-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/anaheim-disneyland-park-fireworks-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "Anaheim",
+        "venue": "Disneyland Park",
+        "address": "1313 Disneyland Dr, Anaheim, CA 92802",
+        "startDate": "2026-11-28T21:30:00-08:00",
+        "fireworksAt": "2026-11-28T21:30:00-08:00",
+        "endDate": "2026-11-28T21:45:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "status": "tentative",
+        "admissionType": "paid",
+        "isFree": false,
+        "displayType": "hybrid",
+        "officialUrl": "https://disneyland.disney.go.com/entertainment/disneyland/fireworks/",
+        "sourceName": "Disneyland Resort Official Site",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Disneyland's seasonal nighttime spectacular combines fireworks with lighting and music. Valid park admission and a same-day park reservation are required for the in-park show."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "san-diego-seaworld-bay-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2266,
+          32.7648
+        ]
+      },
+      "properties": {
+        "title": "SeaWorld San Diego Mission Bay Fireworks Spectacular",
+        "slug": "san-diego-seaworld-bay-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/san-diego-seaworld-bay-fireworks-2026",
+        "country": "US",
+        "state": "CA",
+        "city": "San Diego",
+        "venue": "Mission Bay & SeaWorld San Diego",
+        "address": "500 Sea World Dr, San Diego, CA 92109",
+        "startDate": "2026-11-28T20:50:00-08:00",
+        "fireworksAt": "2026-11-28T20:50:00-08:00",
+        "endDate": "2026-11-28T21:05:00-08:00",
+        "timezone": "America/Los_Angeles",
+        "status": "tentative",
+        "admissionType": "paid",
+        "isFree": false,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://seaworld.com/san-diego/events/christmas/",
+        "sourceName": "SeaWorld San Diego Official Site",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "SeaWorld stages select-night fireworks over Mission Bay. The November 28 time in this listing is unconfirmed, and SeaWorld lists December 12 and 31 for its Christmas fireworks."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "honolulu-waikiki-friday-fireworks-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8583,
+          21.3069
+        ]
+      },
+      "properties": {
+        "title": "Waikiki Beach Friday Night Fireworks at Hilton Hawaiian Village",
+        "slug": "honolulu-waikiki-friday-fireworks-2026",
+        "url": "https://fireworksnearme.top/en/events/honolulu-waikiki-friday-fireworks-2026",
+        "country": "US",
+        "state": "HI",
+        "city": "Honolulu",
+        "venue": "Waikiki Beach & Duke Kahanamoku Lagoon",
+        "address": "2005 Kalia Rd, Honolulu, HI 96815",
+        "startDate": "2026-11-27T19:45:00-10:00",
+        "fireworksAt": "2026-11-27T19:45:00-10:00",
+        "endDate": "2026-11-27T20:00:00-10:00",
+        "timezone": "Pacific/Honolulu",
+        "status": "confirmed",
+        "admissionType": "free",
+        "isFree": true,
+        "displayType": "aerial-fireworks",
+        "officialUrl": "https://www.hilton.com/en/hotels/hnlhvhh-hilton-hawaiian-village-waikiki-beach-resort/things-to-do/",
+        "sourceName": "Hilton Hawaiian Village Official Site",
+        "verifiedAt": "2026-11-23",
+        "lastUpdated": "2026-11-23",
+        "summary": "Hilton Hawaiian Village's weekly Friday fireworks are free to watch from the Waikiki shoreline. Hilton lists a 7:45 PM start from October through May."
+      }
+    }
+  ]
+}

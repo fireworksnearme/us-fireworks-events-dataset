@@ -1,0 +1,278 @@
+[
+  {
+    "id": "chicago-navy-pier-winter-fireworks-2026-11-28",
+    "title": "Navy Pier Winter Fireworks — Saturday, November 28, 2026",
+    "slug": "chicago-navy-pier-winter-fireworks-2026-11-28",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "startDate": "2026-11-28T20:00:00-06:00",
+    "endDate": "2026-11-28T20:15:00-06:00",
+    "fireworksAt": "2026-11-28T20:00:00-06:00",
+    "seriesId": "chicago-navy-pier-winter-2026",
+    "timezone": "America/Chicago",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "admissionType": "free",
+    "displayType": "aerial-fireworks",
+    "verificationStatus": "verified",
+    "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "summary": "Navy Pier opens its 2026 Winter Fireworks series on Saturday, November 28 at 8 PM with a free pyrotechnic show over Lake Michigan.",
+    "description": "Navy Pier's Winter Fireworks series returns select Saturdays this winter, and the season opens the Saturday after Thanksgiving, November 28, 2026. The roughly 15-minute show launches at 8 PM Central over Lake Michigan and is free to watch from the pier. It is one of the most reliable free fireworks nights in Chicago between the holidays, pairing with the pier's indoor rides, dining, and winter programming for a full evening on the lakefront.",
+    "viewingTips": [
+      "The south dock and East End Plaza offer the closest sightlines as shells launch over the lake.",
+      "Arrive 30–45 minutes early; winter Saturdays draw steady crowds despite the cold."
+    ],
+    "parkingTips": [
+      "Navy Pier's on-site garages are the closest option; rates and capacity are posted on the official pier site.",
+      "Garage exits back up right after the finale, so linger indoors if you are driving."
+    ],
+    "transitTips": [
+      "CTA's #29 State and #66 Chicago bus routes serve Navy Pier directly.",
+      "The pier is about a 15-minute walk from the Grand Red Line station — dress for lake wind."
+    ],
+    "safetyNotes": [
+      "Keep clear of fenced launch zones along the dock edges and follow pier staff directions.",
+      "Lakefront wind chills drop fast after sunset; bring layers and a hat."
+    ],
+    "image": "/images/photos/chicago-fireworks-01.webp",
+    "latitude": 41.8916,
+    "longitude": -87.6079
+  },
+  {
+    "id": "chicago-navy-pier-winter-fireworks-2026-12-05",
+    "title": "Navy Pier Winter Fireworks — Saturday, December 5, 2026",
+    "slug": "chicago-navy-pier-winter-fireworks-2026-12-05",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "startDate": "2026-12-05T20:00:00-06:00",
+    "endDate": "2026-12-05T20:15:00-06:00",
+    "fireworksAt": "2026-12-05T20:00:00-06:00",
+    "seriesId": "chicago-navy-pier-winter-2026",
+    "timezone": "America/Chicago",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "admissionType": "free",
+    "displayType": "aerial-fireworks",
+    "verificationStatus": "verified",
+    "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "summary": "Free Saturday winter fireworks over Lake Michigan at Navy Pier on December 5, 2026, firing at 8 PM Central.",
+    "description": "The Winter Fireworks series continues Saturday, December 5, 2026, with a free 8 PM Central show over Lake Michigan. As downtown Chicago lights up for the holidays, the pier's pyrotechnics reflect off the lakefront skyline, making it an easy add-on to Christkindlmarket plans or an evening ride on the Centennial Wheel. The display lasts roughly 15 minutes and no ticket is required for general viewing along the pier.",
+    "viewingTips": [
+      "Face northeast from the dock railings for shells bursting over the open lake.",
+      "The Crystal Gardens windows offer a warmer vantage if the lake wind picks up."
+    ],
+    "parkingTips": [
+      "On-site garages are convenient but fill on holiday-season Saturdays; check the pier's official parking page for rates.",
+      "Off-site lots west of the pier are a cheaper backup with a short walk."
+    ],
+    "transitTips": [
+      "CTA buses #29 and #66 stop at the pier entrance.",
+      "Divvy bike-share docks near the entrance are another option for nearby hotels."
+    ],
+    "safetyNotes": [
+      "Stay behind railings and away from marked launch areas along the water's edge.",
+      "December lake gusts can shift smoke toward the pier — protective eyewear helps if you are sensitive."
+    ],
+    "image": "/images/photos/chicago-fireworks-02.webp",
+    "latitude": 41.8916,
+    "longitude": -87.6079
+  },
+  {
+    "id": "chicago-navy-pier-winter-fireworks-2026-12-12",
+    "title": "Navy Pier Winter Fireworks — Saturday, December 12, 2026",
+    "slug": "chicago-navy-pier-winter-fireworks-2026-12-12",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "startDate": "2026-12-12T20:00:00-06:00",
+    "endDate": "2026-12-12T20:15:00-06:00",
+    "fireworksAt": "2026-12-12T20:00:00-06:00",
+    "seriesId": "chicago-navy-pier-winter-2026",
+    "timezone": "America/Chicago",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "admissionType": "free",
+    "displayType": "aerial-fireworks",
+    "verificationStatus": "verified",
+    "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "summary": "Navy Pier fires its free Winter Fireworks over Lake Michigan on Saturday, December 12, 2026 at 8 PM Central.",
+    "description": "Week three of the Winter Fireworks series lands Saturday, December 12, 2026, with the same free 8 PM Central start over Lake Michigan. Mid-December brings the pier fully into holiday mode, so the show pairs naturally with dinner on the pier or the indoor botanical gardens. The roughly 15-minute display is produced by Navy Pier and announced on its official events page, which remains the source for any weather-related schedule changes.",
+    "viewingTips": [
+      "East End Plaza at the tip of the pier puts you closest to the launch barge line of fire.",
+      "Stake out a railing spot 30 minutes ahead on busy December Saturdays."
+    ],
+    "parkingTips": [
+      "Navy Pier garages are on-site; expect holiday pricing and post-show exit lines.",
+      "Rideshare drop-off is staged near the entrance — confirm your pickup point before the crowd surge."
+    ],
+    "transitTips": [
+      "The #66 Chicago CTA bus terminates at Navy Pier, connecting through the Loop.",
+      "Metra riders can transfer to CTA buses downtown for the last leg to the pier."
+    ],
+    "safetyNotes": [
+      "Obey posted fencing around launch zones and event staff directions.",
+      "Icy patches can form on the pier decks in December — wear shoes with good traction."
+    ],
+    "image": "/images/photos/chicago-fireworks-03.webp",
+    "latitude": 41.8916,
+    "longitude": -87.6079
+  },
+  {
+    "id": "chicago-navy-pier-winter-fireworks-2026-12-19",
+    "title": "Navy Pier Winter Fireworks — Saturday, December 19, 2026",
+    "slug": "chicago-navy-pier-winter-fireworks-2026-12-19",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "startDate": "2026-12-19T20:00:00-06:00",
+    "endDate": "2026-12-19T20:15:00-06:00",
+    "fireworksAt": "2026-12-19T20:00:00-06:00",
+    "seriesId": "chicago-navy-pier-winter-2026",
+    "timezone": "America/Chicago",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "admissionType": "free",
+    "displayType": "aerial-fireworks",
+    "verificationStatus": "verified",
+    "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "summary": "Free winter fireworks at Navy Pier on Saturday, December 19, 2026 — an 8 PM Central show over Lake Michigan.",
+    "description": "The penultimate Saturday show of the 2026 Winter Fireworks series fires December 19 at 8 PM Central, free for everyone on the pier. Falling on the last weekend before Christmas, it is one of the busiest nights of the series, with families combining the fireworks with holiday shopping and the pier's seasonal attractions. The display runs about 15 minutes, and Navy Pier's official event listing carries any final schedule or weather adjustments.",
+    "viewingTips": [
+      "The south dock gives a head-on view of the lake launches with the skyline behind you.",
+      "Arrive early enough to clear holiday-weekend entry crowds before the 8 PM start."
+    ],
+    "parkingTips": [
+      "Pre-holiday weekends push on-site garages toward capacity; arrive early or use off-site lots.",
+      "Watch for event-night traffic routing on Grand Ave and Illinois St."
+    ],
+    "transitTips": [
+      "CTA #29 State buses run to the pier entrance from the Loop.",
+      "Check the CTA holiday schedule for any reduced evening frequencies."
+    ],
+    "safetyNotes": [
+      "Keep children back from dock railings and fenced launch zones.",
+      "Cold-weather gear matters: December nights on the pier routinely sit below freezing with wind."
+    ],
+    "image": "/images/photos/chicago-fireworks-04.webp",
+    "latitude": 41.8916,
+    "longitude": -87.6079
+  },
+  {
+    "id": "chicago-navy-pier-winter-fireworks-2026-12-26",
+    "title": "Navy Pier Winter Fireworks — Saturday, December 26, 2026",
+    "slug": "chicago-navy-pier-winter-fireworks-2026-12-26",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "startDate": "2026-12-26T20:00:00-06:00",
+    "endDate": "2026-12-26T20:15:00-06:00",
+    "fireworksAt": "2026-12-26T20:00:00-06:00",
+    "seriesId": "chicago-navy-pier-winter-2026",
+    "timezone": "America/Chicago",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "admissionType": "free",
+    "displayType": "aerial-fireworks",
+    "verificationStatus": "verified",
+    "officialUrl": "https://navypier.org/pier-events/winter-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "summary": "The final Saturday of Navy Pier's 2026 Winter Fireworks series fires a free 8 PM Central show over Lake Michigan on December 26.",
+    "description": "Navy Pier closes out the Saturday Winter Fireworks series on December 26, 2026, between Christmas and New Year's Eve, with the usual free 8 PM Central launch over Lake Michigan. The holiday-week crowd makes this one of the liveliest nights of the run, and it is the last Saturday show before the pier's separate midnight New Year's Eve display. Confirm timing on the official Navy Pier event page in case of holiday-week adjustments.",
+    "viewingTips": [
+      "Positions along the north and south docks both face the lake launches; the east tip fills first.",
+      "Give yourself extra time — the holiday week brings the series' biggest walk-up crowds."
+    ],
+    "parkingTips": [
+      "Holiday-week demand makes on-site garages tight; consider transit or off-site lots west of the pier.",
+      "Post-show garage exits are slowest on peak nights — a walk to dinner first lets traffic clear."
+    ],
+    "transitTips": [
+      "CTA #66 Chicago and #29 State buses both reach the pier from downtown.",
+      "Rideshares stage near the main entrance; set your pickup point before the crowd exits."
+    ],
+    "safetyNotes": [
+      "Respect launch-zone fencing and staff instructions during setup and teardown.",
+      "Bundle up fully — this is typically the coldest night of the series."
+    ],
+    "image": "/images/photos/chicago-fireworks-01.webp",
+    "latitude": 41.8916,
+    "longitude": -87.6079
+  },
+  {
+    "id": "chicago-navy-pier-new-years-eve-fireworks-2026",
+    "title": "Navy Pier New Year's Eve Fireworks 2026",
+    "slug": "chicago-navy-pier-new-years-eve-fireworks-2026",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "startDate": "2026-12-31T23:59:00-06:00",
+    "endDate": "2027-01-01T00:15:00-06:00",
+    "fireworksAt": "2027-01-01T00:00:00-06:00",
+    "seriesId": "chicago-navy-pier-winter-2026",
+    "timezone": "America/Chicago",
+    "eventType": "nye",
+    "status": "confirmed",
+    "isFree": true,
+    "admissionType": "free",
+    "displayType": "aerial-fireworks",
+    "verificationStatus": "verified",
+    "officialUrl": "https://navypier.org/pier-events/new-years-eve-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-11-23",
+    "lastUpdated": "2026-11-23",
+    "summary": "Navy Pier welcomes 2027 with a free midnight fireworks show over Lake Michigan on New Year's Eve, December 31, 2026.",
+    "description": "Navy Pier's New Year's Eve Fireworks close out the winter series with a midnight launch over Lake Michigan as Chicago counts down to 2027. The display is free to watch from the pier, which stays open late for the celebration with rides, dining, and indoor attractions running through the countdown. Because the show fires exactly at midnight Central, plan to be in position well before 11:30 PM, and use the official Navy Pier event page for entry details, weather calls, and any timing updates on the night.",
+    "viewingTips": [
+      "Face the lake from the pier's east end for the closest view of the midnight launch.",
+      "Claim a spot before 11:30 PM — the pier reaches holiday-week capacity quickly on NYE."
+    ],
+    "parkingTips": [
+      "On-site garages remain the main option but exit slowly after midnight; expect event pricing.",
+      "Transit or rideshare avoids NYE garage exit lines and street closures around the pier."
+    ],
+    "transitTips": [
+      "Check CTA and Metra New Year's Eve service schedules for late-night return trips in advance.",
+      "CTA buses serving the pier run holiday service — confirm your return route before the countdown."
+    ],
+    "safetyNotes": [
+      "Follow pier staff routing at fenced launch zones and during the post-midnight exit surge.",
+      "Dress for a cold lakefront midnight: temperatures near or below freezing are normal."
+    ],
+    "image": "/images/photos/chicago-fireworks-02.webp",
+    "latitude": 41.8916,
+    "longitude": -87.6079
+  }
+]

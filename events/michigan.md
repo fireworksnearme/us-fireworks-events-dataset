@@ -4,7 +4,7 @@
 
 **[Browse all Michigan fireworks →](https://fireworksnearme.top/en/us/mi/fireworks)**
 
-1 verified event · Last updated: 2026-06-12
+1 verified event · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Hart Plaza |
 | Address | Hart Plaza, Detroit, MI |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 42.3284, -83.0432 |
 
 **Viewing tips:**

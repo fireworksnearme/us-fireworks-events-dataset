@@ -4,7 +4,7 @@
 
 **[Browse all Colorado fireworks →](https://fireworksnearme.top/en/us/co/fireworks)**
 
-4 verified events · Last updated: 2026-06-12
+4 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Community Center Park |
 | Address | Fort Lupton, CO |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.0833, -104.8136 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | Lundgren Amphitheater |
 | Address | Gypsum, CO |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.6478, -106.9489 |
 
 **Viewing tips:**
@@ -61,7 +61,7 @@
 | Venue | Civic Center Park |
 | Address | 101 W 14th Ave Pkwy, Denver, CO 80204 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.7392, -104.9847 |
 
 **Viewing tips:**
@@ -83,7 +83,7 @@
 | Venue | Coors Field |
 | Address | 2001 Blake St, Denver, CO 80205 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.7392, -104.9903 |
 
 **Viewing tips:**

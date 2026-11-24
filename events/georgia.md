@@ -4,7 +4,7 @@
 
 **[Browse all Georgia fireworks →](https://fireworksnearme.top/en/us/ga/fireworks)**
 
-4 verified events · Last updated: 2026-06-12
+4 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Centennial Olympic Park |
 | Address | 265 Park Ave W NW, Atlanta, GA 30313 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.749, -84.388 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | Lenox Square |
 | Address | 3393 Peachtree Rd NE, Atlanta, GA 30326 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.846, -84.3624 |
 
 **Viewing tips:**
@@ -61,7 +61,7 @@
 | Venue | Stone Mountain Park Memorial Lawn |
 | Address | 1000 Robert E Lee Blvd, Stone Mountain, GA 30083 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.8053, -84.1454 |
 
 **Viewing tips:**
@@ -83,7 +83,7 @@
 | Venue | River Street |
 | Address | River Street, Savannah, GA 31401 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.0809, -81.0912 |
 
 **Viewing tips:**

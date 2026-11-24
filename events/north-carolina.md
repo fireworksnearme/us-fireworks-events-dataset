@@ -4,7 +4,7 @@
 
 **[Browse all North Carolina fireworks →](https://fireworksnearme.top/en/us/nc/fireworks)**
 
-2 verified events · Last updated: 2026-06-12
+2 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Truist Field |
 | Address | 324 S Mint St, Charlotte, NC 28202 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 35.227, -80.8432 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | Dorothea Dix Park |
 | Address | Dorothea Dix Park, Raleigh, NC |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 35.7796, -78.6382 |
 
 **Viewing tips:**

@@ -4,7 +4,29 @@
 
 **[Browse all Texas fireworks →](https://fireworksnearme.top/en/us/tx/fireworks)**
 
-19 verified events · Last updated: 2026-06-12
+20 verified events · Last updated: 2026-11-24
+
+---
+
+## Dallas Lone Star NYE at Reunion Tower 2027
+
+| Field | Value |
+|---|---|
+| Date | December 31, 2026 at 10:00 PM CST |
+| Ends | January 1, 2027 at 12:15 AM CST |
+| Venue | Reunion Tower |
+| Address | 300 Reunion Blvd E, Dallas, TX 75207 |
+| Free | Yes |
+| Status | Confirmed |
+| Coordinates | 32.7758, -96.8087 |
+
+**Viewing tips:**
+- Reunion Tower is closed to the public for the show; the free viewing areas are the surrounding lawns, the civic plaza, and the designated zones published each year.
+- Arrive early to claim a spot with a clear sightline to the tower, and confirm the official viewing zones before you head out.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/tx/dallas/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/dallas-reunion-tower-nye-2027)**
+**[Official page →](https://reuniontower.com/things-to-do/lone-star-nye-at-reunion-tower/)**
 
 ---
 
@@ -17,7 +39,7 @@
 | Venue | Downtown Riverwalk |
 | Address | Houston River Walk, Houston, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 29.7604, -95.3698 |
 
 **Viewing tips:**
@@ -39,7 +61,7 @@
 | Venue | Municipal Plaza |
 | Address | Downtown Houston, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 29.7604, -95.3698 |
 
 **Viewing tips:**
@@ -61,7 +83,7 @@
 | Venue | Zilker Metropolitan Park |
 | Address | Zilker Park, Austin, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 30.2672, -97.7431 |
 
 **Viewing tips:**
@@ -83,7 +105,7 @@
 | Venue | Addison Circle Park |
 | Address | Addison Circle Park, Addison, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.9618, -96.8292 |
 
 **Viewing tips:**
@@ -105,7 +127,7 @@
 | Venue | Wolf Pen Creek Park |
 | Address | Wolf Pen Creek Park, College Station, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 30.628, -96.3344 |
 
 **Viewing tips:**
@@ -127,7 +149,7 @@
 | Venue | Bicentennial Park |
 | Address | Bicentennial Park, Baytown, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 29.7355, -94.9774 |
 
 **Viewing tips:**
@@ -149,7 +171,7 @@
 | Venue | Klyde Warren Park |
 | Address | Klyde Warren Park, Dallas, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.7767, -96.797 |
 
 **Viewing tips:**
@@ -171,7 +193,7 @@
 | Venue | Downtown Midland |
 | Address | Downtown Midland, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 31.9974, -102.0779 |
 
 **Viewing tips:**
@@ -193,7 +215,7 @@
 | Venue | Rowlett Main Street Area |
 | Address | Rowlett, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.9029, -96.5639 |
 
 **Viewing tips:**
@@ -215,7 +237,7 @@
 | Venue | Rowlett Main Street Area |
 | Address | Rowlett, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.9029, -96.5639 |
 
 **Viewing tips:**
@@ -237,7 +259,7 @@
 | Venue | Grimes Park |
 | Address | Grimes Park, DeSoto, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.5896, -96.857 |
 
 **Viewing tips:**
@@ -259,7 +281,7 @@
 | Venue | McCowan Park |
 | Address | McCowan Park, DeSoto, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.5896, -96.857 |
 
 **Viewing tips:**
@@ -281,7 +303,7 @@
 | Venue | Flower Mound Community Grounds |
 | Address | Flower Mound, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.0146, -97.097 |
 
 **Viewing tips:**
@@ -303,7 +325,7 @@
 | Venue | Flower Mound Downtown Route |
 | Address | Flower Mound, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.0146, -97.097 |
 
 **Viewing tips:**
@@ -325,7 +347,7 @@
 | Venue | Business Highway 249 Corridor |
 | Address | Tomball, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 30.0972, -95.6161 |
 
 **Viewing tips:**
@@ -347,7 +369,7 @@
 | Venue | FM 2920 District Area |
 | Address | Tomball, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 30.0972, -95.6161 |
 
 **Viewing tips:**
@@ -369,7 +391,7 @@
 | Venue | Klyde Warren Park |
 | Address | Klyde Warren Park, Dallas, TX |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.7767, -96.797 |
 
 **Viewing tips:**
@@ -391,7 +413,7 @@
 | Venue | Woodlawn Lake Park |
 | Address | 1103 Cincinnati Ave, San Antonio, TX 78201 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 29.4241, -98.4936 |
 
 **Viewing tips:**
@@ -413,7 +435,7 @@
 | Venue | Eleanor Tinsley Park |
 | Address | 500 Allen Pkwy, Houston, TX 77019 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 29.7604, -95.3698 |
 
 **Viewing tips:**

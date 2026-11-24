@@ -4,7 +4,30 @@
 
 **[Browse all Massachusetts fireworks →](https://fireworksnearme.top/en/us/ma/fireworks)**
 
-2 verified events · Last updated: 2026-06-12
+3 verified events · Last updated: 2026-11-24
+
+---
+
+## First Night Boston New Year 2027 Fireworks
+
+| Field | Value |
+|---|---|
+| Date | December 31, 2026 at 12:00 PM EST |
+| Ends | January 1, 2027 at 12:30 AM EST |
+| Venue | Boston Inner Harbor & Copley Square |
+| Address | Copley Square, Boston, MA 02116 |
+| Free | Yes |
+| Status | Confirmed |
+| Coordinates | 42.3499, -71.0768 |
+
+**Viewing tips:**
+- Copley Square anchors the daytime festival and the Grand Procession parade — claim curb space along the parade route well before the evening step-off.
+- For the 7 PM family show, the Boston Common ballfields and slopes facing the launch site are the classic spots; arrive well before 6 PM as the Common fills quickly.
+- Prime midnight harbor viewing stretches along the Harborwalk, Fan Pier in the Seaport District, Christopher Columbus Park in the North End, and the East Boston waterfront across the channel.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/ma/boston/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/boston-first-night-nye-2027)**
+**[Official page →](https://www.firstnightboston.org/)**
 
 ---
 
@@ -17,7 +40,7 @@
 | Venue | Charles River Esplanade (DCR Hatch Shell) |
 | Address | DCR Hatch Shell, Boston, MA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 42.3601, -71.0589 |
 
 **Viewing tips:**
@@ -40,7 +63,7 @@
 | Venue | Memorial Drive |
 | Address | Memorial Drive, Cambridge, MA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 42.3736, -71.1097 |
 
 **Viewing tips:**

@@ -4,7 +4,29 @@
 
 **[Browse all Tennessee fireworks →](https://fireworksnearme.top/en/us/tn/fireworks)**
 
-2 verified events · Last updated: 2026-06-12
+3 verified events · Last updated: 2026-11-24
+
+---
+
+## Nashville's Big Bash at Bicentennial Mall New Year 2027
+
+| Field | Value |
+|---|---|
+| Date | December 31, 2026 at 5:30 PM CST |
+| Ends | January 1, 2027 at 12:30 AM CST |
+| Venue | Bicentennial Capitol Mall State Park |
+| Address | 600 James Robertson Pkwy, Nashville, TN 37243 |
+| Free | Yes |
+| Status | Tentative |
+| Coordinates | 36.1706, -86.7894 |
+
+**Viewing tips:**
+- The park's great lawn faces the main stage area where the midnight celebration is centered.
+- Arrive before gates reach capacity — this free event draws one of the largest NYE crowds in the Southeast.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/tn/nashville/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/nashville-bash-on-broadway-new-year-2027)**
+**[Official page →](https://www.visitmusiccity.com/media/press-release/2026/little-big-town-red-clay-strays-and-hardy-to-headline-new-years-eve-live)**
 
 ---
 
@@ -17,7 +39,7 @@
 | Venue | Downtown Nashville riverfront stages |
 | Address | Downtown Nashville, TN |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 36.1612, -86.7775 |
 
 **Viewing tips:**
@@ -39,7 +61,7 @@
 | Venue | Tom Lee Park |
 | Address | Tom Lee Park, Memphis, TN 38103 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 35.1495, -90.049 |
 
 **Viewing tips:**

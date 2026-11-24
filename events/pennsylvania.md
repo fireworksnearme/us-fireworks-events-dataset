@@ -4,7 +4,7 @@
 
 **[Browse all Pennsylvania fireworks →](https://fireworksnearme.top/en/us/pa/fireworks)**
 
-4 verified events · Last updated: 2026-06-12
+4 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Benjamin Franklin Parkway |
 | Address | Benjamin Franklin Parkway, Philadelphia, PA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.9526, -75.1652 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | Benjamin Franklin Parkway |
 | Address | Benjamin Franklin Parkway, Philadelphia, PA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.9526, -75.1652 |
 
 **Viewing tips:**
@@ -61,7 +61,7 @@
 | Venue | Great Plaza at Penn's Landing |
 | Address | 101 S Christopher Columbus Blvd, Philadelphia, PA 19106 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.9485, -75.142 |
 
 **Viewing tips:**
@@ -83,7 +83,7 @@
 | Venue | Point State Park |
 | Address | 601 Commonwealth Pl, Pittsburgh, PA 15222 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.4406, -79.9959 |
 
 **Viewing tips:**

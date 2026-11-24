@@ -4,7 +4,7 @@
 
 **[Browse all Indiana fireworks →](https://fireworksnearme.top/en/us/in/fireworks)**
 
-2 verified events · Last updated: 2026-06-12
+2 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Grand Park Sports Campus |
 | Address | Grand Park Sports Campus, Westfield, IN |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.0428, -86.1275 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | White River State Park |
 | Address | 801 W Washington St, Indianapolis, IN 46204 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.7684, -86.1581 |
 
 **Viewing tips:**

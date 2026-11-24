@@ -4,7 +4,7 @@
 
 **[Browse all Maryland fireworks →](https://fireworksnearme.top/en/us/md/fireworks)**
 
-1 verified event · Last updated: 2026-06-12
+1 verified event · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Mattie J.T. Stepanek Park |
 | Address | Mattie J.T. Stepanek Park, Rockville, MD |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.084, -77.1528 |
 
 **Viewing tips:**

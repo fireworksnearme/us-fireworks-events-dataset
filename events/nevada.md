@@ -4,7 +4,29 @@
 
 **[Browse all Nevada fireworks →](https://fireworksnearme.top/en/us/nv/fireworks)**
 
-3 verified events · Last updated: 2026-06-12
+4 verified events · Last updated: 2026-11-24
+
+---
+
+## Las Vegas Strip New Year 2027 Fireworks
+
+| Field | Value |
+|---|---|
+| Date | December 31, 2026 at 11:59 PM PST |
+| Ends | January 1, 2027 at 12:08 AM PST |
+| Venue | Las Vegas Strip |
+| Address | Las Vegas Boulevard, Las Vegas, NV |
+| Free | Yes |
+| Status | Confirmed |
+| Coordinates | 36.1716, -115.1391 |
+
+**Viewing tips:**
+- Sightlines along the public Strip corridor cover the rooftop launches; curbside spots fill hours before midnight.
+- Resort pool decks and venues host ticketed viewing parties — book in advance where offered.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/nv/las-vegas/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/las-vegas-strip-new-year-2027-fireworks)**
+**[Official page →](https://www.lasvegasevents.com/signature-events/181/americas-party-las-vegas-new-year-2025)**
 
 ---
 
@@ -17,7 +39,7 @@
 | Venue | Las Vegas Strip resort rooftops |
 | Address | Las Vegas Boulevard, Las Vegas, NV |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 36.1147, -115.1728 |
 
 **Viewing tips:**
@@ -39,7 +61,7 @@
 | Venue | Fremont Street Experience |
 | Address | Fremont Street, Las Vegas, NV 89101 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 36.1716, -115.1391 |
 
 **Viewing tips:**
@@ -61,7 +83,7 @@
 | Venue | Sparks Marina Park |
 | Address | Sparks Marina Park, Sparks, NV |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.5296, -119.8138 |
 
 **Viewing tips:**

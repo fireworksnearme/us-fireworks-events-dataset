@@ -4,7 +4,30 @@
 
 **[Browse all New York fireworks →](https://fireworksnearme.top/en/us/ny/fireworks)**
 
-6 verified events · Last updated: 2026-06-12
+7 verified events · Last updated: 2026-11-24
+
+---
+
+## New York City Times Square New Year 2027 Ball Drop
+
+| Field | Value |
+|---|---|
+| Date | December 31, 2026 at 6:00 PM EST |
+| Ends | January 1, 2027 at 12:30 AM EST |
+| Venue | Times Square |
+| Address | Times Square, New York, NY 10036 |
+| Free | Yes |
+| Status | Confirmed |
+| Coordinates | 40.7128, -74.006 |
+
+**Viewing tips:**
+- Spectator pens form between 42nd and 47th streets — gates open early afternoon.
+- After 3pm bags are screened; after 5pm pens lock and re-entry is impossible.
+- Liberty Lounge ticketed venues offer indoor warm-up with view of the ball.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/ny/new-york-city/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/nyc-times-square-new-year-2027)**
+**[Official page →](https://www.timessquarenyc.org/)**
 
 ---
 
@@ -17,7 +40,7 @@
 | Venue | New York City waterfront |
 | Address | Brooklyn Bridge, lower East River and lower Hudson River, New York, NY |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.7128, -74.006 |
 
 **Viewing tips:**
@@ -40,7 +63,7 @@
 | Venue | East River Waterfront |
 | Address | East River, Lower Manhattan, New York, NY |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.7039, -73.9968 |
 
 **Viewing tips:**
@@ -62,7 +85,7 @@
 | Venue | Downtown Civic Plaza |
 | Address | Downtown Albany, Albany, NY |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 42.6526, -73.7562 |
 
 **Viewing tips:**
@@ -84,7 +107,7 @@
 | Venue | Lower Manhattan and Brooklyn viewing zones |
 | Address | Lower East Side and Brooklyn Waterfront, New York, NY |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.7128, -74.006 |
 
 **Viewing tips:**
@@ -106,7 +129,7 @@
 | Venue | Coney Island Boardwalk |
 | Address | Coney Island Boardwalk, Brooklyn, NY |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.6782, -73.9442 |
 
 **Viewing tips:**
@@ -128,7 +151,7 @@
 | Venue | Canalside Buffalo |
 | Address | 44 Prime St, Buffalo, NY 14202 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 42.8773, -78.8819 |
 
 **Viewing tips:**

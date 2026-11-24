@@ -4,7 +4,7 @@
 
 **[Browse all Minnesota fireworks →](https://fireworksnearme.top/en/us/mn/fireworks)**
 
-1 verified event · Last updated: 2026-06-12
+1 verified event · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Boom Island Park |
 | Address | Boom Island Park, Minneapolis, MN |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 44.9778, -93.265 |
 
 **Viewing tips:**

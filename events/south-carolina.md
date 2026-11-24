@@ -4,7 +4,7 @@
 
 **[Browse all South Carolina fireworks →](https://fireworksnearme.top/en/us/sc/fireworks)**
 
-1 verified event · Last updated: 2026-06-12
+1 verified event · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Cherry Grove Pier |
 | Address | Cherry Grove Pier, North Myrtle Beach, SC |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.8157, -78.68 |
 
 **Viewing tips:**

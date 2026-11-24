@@ -4,7 +4,7 @@
 
 **[Browse all Washington D.C. fireworks →](https://fireworksnearme.top/en/us/dc/fireworks)**
 
-2 verified events · Last updated: 2026-06-12
+2 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | National Mall |
 | Address | Washington, DC |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 38.9072, -77.0369 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | National Mall |
 | Address | Washington, DC |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 38.9072, -77.0369 |
 
 **Viewing tips:**

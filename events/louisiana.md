@@ -4,7 +4,7 @@
 
 **[Browse all Louisiana fireworks →](https://fireworksnearme.top/en/us/la/fireworks)**
 
-1 verified event · Last updated: 2026-06-12
+1 verified event · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Mississippi River |
 | Address | Mississippi Riverfront, New Orleans, LA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 29.9511, -90.0715 |
 
 **Viewing tips:**

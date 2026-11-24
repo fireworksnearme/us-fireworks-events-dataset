@@ -4,7 +4,51 @@
 
 **[Browse all California fireworks →](https://fireworksnearme.top/en/us/ca/fireworks)**
 
-16 verified events · Last updated: 2026-06-12
+20 verified events · Last updated: 2026-11-24
+
+---
+
+## San Francisco Waterfront New Year's Eve Fireworks 2027
+
+| Field | Value |
+|---|---|
+| Date | December 31, 2026 at 11:30 PM PST |
+| Ends | January 1, 2027 at 12:25 AM PST |
+| Venue | Embarcadero Waterfront / Ferry Building |
+| Address | 1 Ferry Building, San Francisco, CA 94111 |
+| Free | Yes |
+| Status | Confirmed |
+| Coordinates | 37.7955, -122.3937 |
+
+**Viewing tips:**
+- The Embarcadero between Mission and Folsom streets is the best free public viewing stretch for the barge-launched show.
+- Arrive by late evening — the waterfront rail fills quickly ahead of the midnight launch, which starts exactly at 12:00 AM.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/ca/san-francisco/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/san-francisco-waterfront-nye-2027)**
+**[Official page →](https://sfport.com)**
+
+---
+
+## Marina del Rey New Year's Eve Fireworks 2027
+
+| Field | Value |
+|---|---|
+| Date | December 31, 2026 at 7:00 PM PST |
+| Ends | January 1, 2027 at 12:30 AM PST |
+| Venue | Burton Chace Park |
+| Address | 13650 Mindanao Way, Marina del Rey, CA 90292 |
+| Free | Yes |
+| Status | Confirmed |
+| Coordinates | 33.9784, -118.4419 |
+
+**Viewing tips:**
+- Burton Chace Park and Fisherman's Village are the best free public waterfront viewing spots for the breakwater-launched show.
+- Sightlines face the main channel — harbor-adjacent stretches also work, but arrive early, as prime lawn and rail space fills hours before midnight.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/ca/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/los-angeles-marina-del-rey-nye-2027)**
+**[Official page →](https://beaches.lacounty.gov/new-years-eve-fireworks-in-marina-del-rey/)**
 
 ---
 
@@ -17,7 +61,7 @@
 | Venue | San Diego Bay |
 | Address | San Diego Bay, San Diego, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.7157, -117.1611 |
 
 **Viewing tips:**
@@ -39,7 +83,7 @@
 | Venue | Pier 7 |
 | Address | San Francisco Waterfront, San Francisco, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 37.7749, -122.4194 |
 
 **Viewing tips:**
@@ -61,7 +105,7 @@
 | Venue | Pier 39 |
 | Address | Pier 39, San Francisco, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 37.7749, -122.4194 |
 
 **Viewing tips:**
@@ -83,7 +127,7 @@
 | Venue | Hollywood Bowl |
 | Address | 2301 N Highland Ave, Los Angeles, CA |
 | Free | No |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 34.0522, -118.2437 |
 
 **Viewing tips:**
@@ -105,7 +149,7 @@
 | Venue | Hollywood Bowl |
 | Address | 2301 N Highland Ave, Los Angeles, CA |
 | Free | No |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 34.0522, -118.2437 |
 
 **Viewing tips:**
@@ -127,7 +171,7 @@
 | Venue | Graeagle Mill Pond |
 | Address | Graeagle, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.7321, -120.6943 |
 
 **Viewing tips:**
@@ -149,7 +193,7 @@
 | Venue | Navy Pier and Waterfront |
 | Address | San Francisco Waterfront, SF, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 37.7749, -122.4194 |
 
 **Viewing tips:**
@@ -171,7 +215,7 @@
 | Venue | Hollywood Bowl Stage Access |
 | Address | Hollywood Bowl, Los Angeles, CA |
 | Free | No |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 34.0522, -118.2437 |
 
 **Viewing tips:**
@@ -193,7 +237,7 @@
 | Venue | Main Street USA |
 | Address | Main Street USA, Corona, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.8753, -117.5664 |
 
 **Viewing tips:**
@@ -215,7 +259,7 @@
 | Venue | Main Street USA Main Route |
 | Address | Main Street USA, Corona, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 33.8753, -117.5664 |
 
 **Viewing tips:**
@@ -237,7 +281,7 @@
 | Venue | San Diego Bay |
 | Address | San Diego Bay, San Diego, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.7157, -117.1611 |
 
 **Viewing tips:**
@@ -260,7 +304,7 @@
 | Venue | La Jolla Cove |
 | Address | La Jolla Cove, San Diego, CA |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 32.8497, -117.2725 |
 
 **Viewing tips:**
@@ -282,7 +326,7 @@
 | Venue | Hollywood Bowl |
 | Address | 2301 N Highland Ave, Los Angeles, CA 90068 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 34.0522, -118.2437 |
 
 **Viewing tips:**
@@ -304,7 +348,7 @@
 | Venue | Grand Park |
 | Address | 200 N Grand Ave, Los Angeles, CA 90012 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 34.0556, -118.2461 |
 
 **Viewing tips:**
@@ -326,7 +370,7 @@
 | Venue | Discovery Meadow |
 | Address | 180 Woz Way, San Jose, CA 95110 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 37.3382, -121.8863 |
 
 **Viewing tips:**
@@ -348,7 +392,7 @@
 | Venue | Jack London Square |
 | Address | 472 Water St, Oakland, CA 94607 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 37.8044, -122.2712 |
 
 **Viewing tips:**
@@ -358,5 +402,47 @@
 **[Full details & viewing guide →](https://fireworksnearme.top/en/us/ca/fireworks)**
 **[This event →](https://fireworksnearme.top/en/events/oakland-jack-london-square-fireworks-2026)**
 **[Official page →](https://jacklondonsquare.com/)**
+
+---
+
+## Disneyland Park Anaheim Nighttime Fireworks Spectacular
+
+| Field | Value |
+|---|---|
+| Date | November 28, 2026 at 9:30 PM PST |
+| Ends | November 28, 2026 at 9:45 PM PST |
+| Venue | Disneyland Park |
+| Address | 1313 Disneyland Dr, Anaheim, CA 92802 |
+| Free | No |
+| Status | Tentative |
+| Coordinates | 33.8121, -117.919 |
+
+**Viewing tips:**
+- Try the outer Downtown Disney walkways, designated open areas of the Esplanade, or public Harbor Boulevard sidewalks with an unobstructed view. Follow security directions.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/ca/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/anaheim-disneyland-park-fireworks-2026)**
+**[Official page →](https://disneyland.disney.go.com/entertainment/disneyland/fireworks/)**
+
+---
+
+## SeaWorld San Diego Mission Bay Fireworks Spectacular
+
+| Field | Value |
+|---|---|
+| Date | November 28, 2026 at 8:50 PM PST |
+| Ends | November 28, 2026 at 9:05 PM PST |
+| Venue | Mission Bay & SeaWorld San Diego |
+| Address | 500 Sea World Dr, San Diego, CA 92109 |
+| Free | No |
+| Status | Tentative |
+| Coordinates | 32.7648, -117.2266 |
+
+**Viewing tips:**
+- Look for open waterfront at South Shores Park or along the grassy Fiesta Island shoreline. Check access hours and posted closures before choosing a spot.
+
+**[Full details & viewing guide →](https://fireworksnearme.top/en/us/ca/san-diego/fireworks)**
+**[This event →](https://fireworksnearme.top/en/events/san-diego-seaworld-bay-fireworks-2026)**
+**[Official page →](https://seaworld.com/san-diego/events/christmas/)**
 
 ---

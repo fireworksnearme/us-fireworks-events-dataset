@@ -4,7 +4,7 @@
 
 **[Browse all Missouri fireworks →](https://fireworksnearme.top/en/us/mo/fireworks)**
 
-2 verified events · Last updated: 2026-06-12
+2 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | Gateway Arch National Park |
 | Address | Gateway Arch National Park, St. Louis, MO 63102 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 38.6247, -90.1848 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | Berkley Riverfront Park |
 | Address | Berkley Riverfront Park, Kansas City, MO |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 39.1163, -94.5807 |
 
 **Viewing tips:**

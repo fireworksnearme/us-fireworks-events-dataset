@@ -4,7 +4,7 @@
 
 **[Browse all Utah fireworks →](https://fireworksnearme.top/en/us/ut/fireworks)**
 
-2 verified events · Last updated: 2026-06-12
+2 verified events · Last updated: 2026-11-24
 
 ---
 
@@ -17,7 +17,7 @@
 | Venue | LaVell Edwards Stadium |
 | Address | LaVell Edwards Stadium, Provo, UT |
 | Free | No |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.2569, -111.6552 |
 
 **Viewing tips:**
@@ -39,7 +39,7 @@
 | Venue | Sugar House Park |
 | Address | 1330 E 2100 S, Salt Lake City, UT 84106 |
 | Free | Yes |
-| Status | Confirmed |
+| Status | Past |
 | Coordinates | 40.7608, -111.891 |
 
 **Viewing tips:**
